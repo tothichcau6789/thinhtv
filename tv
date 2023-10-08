@@ -1,0 +1,36 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/96.png" group-logo="https://cdn.antmediatv.xyz/group/K+.png", K+CINE HD - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=HongPhongLon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o8MYNfwuXmnWSJS8qjP25Q","kid":"8JdIS5zaFaSsEHEHeNzOLg"},{"kty":"oct","k":"SzP6U0A47fNG2NF7lpn/QQ","kid":"ONtIS5zaFaSsEHEHeNzOLg"},{"kty":"oct","k":"HGBXmIO1YKFnfG0IBl6W9Q","kid":"Rd+MfJzaFaSsEHEHeNzOLg"},{"kty":"oct","k":"liOMjwke+7YDTLklO2NE6g","kid":"MeyMlOvaFaSsEHEHeNzOLg"}],"type":"temporary"}
+https://hbolive.kplus.vn/__token__exp%3D1696718374~acl%3D%2Fbpk-tv%2Fprod_kplus_cinehd%2Fdefault%2F%2A~id%3D4999669a-bea8-4cad-a96b-4011e6a6bd80~hmac%3Dec36139f330924dfe2026ddc34340c42ffea922d552b1b6607b83ad3d2f9415e/bpk-tv/prod_kplus_cinehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 HD - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=HongPhongLon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lho4v5rL01XeqKyDvJDoOQ","kid":"iY7rAheQBu7IACFOwCACiA"},{"kty":"oct","k":"8lU4L06S2ZkmqNWXwFTfCA","kid":"0dLrAheQBu7IACFOwCACiA"},{"kty":"oct","k":"9zydWa1E8b7d25SiZiw2Pg","kid":"3tYvMxeQBu7IACFOwCACiA"},{"kty":"oct","k":"+6MIqkkqhSCh6KmzLHNH/A","kid":"yuMvS2aQBu7IACFOwCACiA"}],"type":"temporary"}
+https://hbolive.kplus.vn/__token__exp%3D1696718295~acl%3D%2Fbpk-tv%2Fprod_kplus_sport1hd%2Fdefault%2F%2A~id%3Dd3f1db54-33ae-4b91-81cf-28ab66d4fa6c~hmac%3D4ad9a51fef54f3e0956038df92f9412cf38c077762bad7dd375682c82d037d72/bpk-tv/prod_kplus_sport1hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 HD - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=HongPhongLon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zyW6OqD5ZK8q1ujTVCNWqQ","kid":"OyDqndQAsffJoCNsRVNOLQ"},{"kty":"oct","k":"Hk2d9OwaxitvjNMmYs3tdw","kid":"g2TqndQAsffJoCNsRVNOLQ"},{"kty":"oct","k":"6Wb6Y/rm2fz5wVk1Em5Gpw","kid":"kGguztQAsffJoCNsRVNOLQ"},{"kty":"oct","k":"w5peO4NC6vVzkTQ31HLHDw","kid":"fHUu5iMAsffJoCNsRVNOLQ"}],"type":"temporary"}
+https://hbolive.kplus.vn/__token__exp%3D1696718437~acl%3D%2Fbpk-tv%2Fprod_kplus_sport2hd%2Fdefault%2F%2A~id%3Da634c1f6-6b10-42ba-8efb-b8935320da18~hmac%3Dc3b1f6b0f24064ff0d97a19340315e795a5b564d196b0d9690553450d94645b1/bpk-tv/prod_kplus_sport2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="K+" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest?cb=20231001110833&path-prefix=vi", K+ACTION - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=HongPhongLon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZTomJKhY2IrLWxiyt8YZgQ","kid":"Drypor6TPn7opyIY/akatg"},{"kty":"oct","k":"Qf/lX0DSE3djKS6Qi2TPAA","kid":"VgCpor6TPn7opyIY/akatg"},{"kty":"oct","k":"VduJQDHIk6dmibTS8OzcBQ","kid":"YwTt076TPn7opyIY/akatg"},{"kty":"oct","k":"SYLzFTVu6cYvCYJrGckgDQ","kid":"TxHt6w2TPn7opyIY/akatg"}],"type":"temporary"}
+https://hbolive.kplus.vn/__token__exp%3D1696718403~acl%3D%2Fbpk-tv%2Fprod_kplus_lifehd%2Fdefault%2F%2A~id%3Da70ff7ac-ebeb-4ea1-bb8f-9fc1e5f51571~hmac%3Dd4d1bd9b6314dd3737319f713d5fc514b363d63e3100d10dbaf2f97e4c005057/bpk-tv/prod_kplus_lifehd/default/index.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS HD - MyK+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=HongPhongLon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qiZRzKPCpUPEBRD+kBqAnA","kid":"3t5S1kK5jISopb/89lU8ng"},{"kty":"oct","k":"ZSY0VP0Tk28I/WPK+dp+fg","kid":"JiJS1kK5jISopb/89lU8ng"},{"kty":"oct","k":"gQQ5TSJ/tci60yiLaNw8dg","kid":"MyaWB0K5jISopb/89lU8ng"},{"kty":"oct","k":"4dBQ4xz1i6eG9ZSqSLdOdA","kid":"HzOWH5G5jISopb/89lU8ng"}],"type":"temporary"}
+https://hbolive.kplus.vn/__token__exp%3D1696718467~acl%3D%2Fbpk-tv%2Fprod_kplus_kidshd%2Fdefault%2F%2A~id%3D9b5846be-5ddd-47f6-9f2e-1a8cac9ae96f~hmac%3D99037cf179df659f3f4006c3f60b94b76fb6be3f340f0f75d2dbd54e78a25f14/bpk-tv/prod_kplus_kidshd/default/index.mpd
