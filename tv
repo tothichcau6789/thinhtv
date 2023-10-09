@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
-
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrzalovthanh2.png", Tham gia group Zalo VThanhTivi
+http://plus.vthanhtivi.pw/intro/intro.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/qrmb.png", Donate/Ủng hộ dự án
+http://plus.vthanhtivi.pw/donate/donate.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Cập nhật lần cuối: 09/10/2023 15:50:01
+http://plus.vthanhtivi.pw/intro/intro.m3u8
+#EXTINF:-1 group-title="ℹ| Info" tvg-logo="https://cdn.hqth.me/vthanhtivi.png", Hôm nay đã có 4542 lượt truy cập tới list
+http://plus.vthanhtivi.pw/intro/intro.m3u8
 
 #EXTINF:-1 group-title="🔴| Livestream" tvg-logo="https://1.bp.blogspot.com/-tY_KSD4Gkgk/YNwOwQ8pj1I/AAAAAAAAMZ0/HxSq5zi1IOslwdwg9KiH2E_BLj6G1tDHACNcBGAsYHQ/s0/ung-dung-on-plus-logo.png", ON Plus Live 1
 #Không có link
