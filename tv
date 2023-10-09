@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vagroup_epg.xml"
+#EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyTV Thử nghiệm phát sóng
 https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.96:8550&token=c1914d9a98d9a1ee3340a512febdb8d6fb300293
@@ -19,4 +19,11 @@ https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.131:10368&token=c1914d9a
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 #Khongcolink
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+#Khongcolink
+
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+#Khongcolink
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+#Khongcolink
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 #Khongcolink
