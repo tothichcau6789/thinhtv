@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml" tvg-shift=0 m3uautoload=1
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD - MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
