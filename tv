@@ -27,3 +27,6 @@ https://live.khanggtivi.xyz/rtp/play-drm/?dash=232.84.1.131:10368&token=c1914d9a
 #Khongcolink
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 #Khongcolink
+
+#EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+ All Thiết bị hiện chưa hỗ trợ
+https://code.antmediatv.xyz/video/antmedia.m3u8
