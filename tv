@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #--*.*--HBO-GO--*.*--#
 
@@ -8,16 +8,10 @@ http://vthanhtivi.pw:5000/hbo/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="HBO-GO",HBO HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.khanggtivi.xyz/live/hbo/chunklist.m3u8?token=c10167bae034aecffa631c6f9916eb885e676471
+#--*.*--Địa phương--*.*--#
 
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="HBO-GO",CINEMAX HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.khanggtivi.xyz/live/cinemax/chunklist.m3u8?token=c10167bae034aecffa631c6f9916eb885e676471
-
-
-
+#EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", ATV HD | TH An Giang
+https://code.vthanhtivi.pw/getlink/tv360/8um21fH8nuXTrfePnW5N0Q/1697089749/35/playlist.m3u8
 
 
 
