@@ -2,27 +2,82 @@
 
 #--*.*--HBO-GO--*.*--#
 
-#EXTINF:-1 tvg-id="hbohd" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 http://vthanhtivi.pw:5000/cinemax/index.m3u8
 
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 
-#EXTINF:-1 tvg-id="510dtv.cl" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="HBO-GO",PARAMOUNT CHANEL HD
+#EXTINF:-1 tvg-id="510dtv.cl" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="🎬| HBO-GO",PARAMOUNT CHANEL HD
 http://oaktvpro.club:8080/992879023/B2005CC1/3520
 
-#EXTINF:-1 tvg-id="boxhits" group-title="HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+
+#EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 http://vthanhtivi.pw:5000/bhits/mpegts
 
-#EXTINF:-1 tvg-id="inthebox" group-title="HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
 
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+
+#EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+https://code.vthanhtivi.pw/getlink/cliptv/ujlKA-giF-dv2qFw1sMxbw/1697089749/man/chunklist_b5128000.m3u8
+
+#EXTINF:-1 tvg-id="hits" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
+https://code.vthanhtivi.pw/getlink/tv360/00WI_SiL-mOiIGQfhyv-7A/1697089749/107/playlist.m3u8
+
+#EXTINF:-1 group-title="🎬| HBO-GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TRT-4K.jpg/320px-TRT-4K.jpg",TRT 4K
+http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-HD.png", HBO FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/792
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-MUNDI.jpeg", HBO MUNDI FHD 
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/797
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-MAX.png", HBO MAX 02
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/204
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-FAMILY-HD.png", HBO FAMILY FHD 
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/795
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-2-POLAND.png", HBO 2 FHD 
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/793
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-PLUS.png", HBO PLUS FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/794
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-POP.png", HBO POP HD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/50
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-SIGNATURE-HD.png", HBO SIGNATURE FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/796
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-XTREME.png", HBO XTREME FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/798
+
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/sonychannel.png", CANAL SONY FHD H265
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
+http://tiemnhazunn.click/daddylivehd/374/index.m3u8
 
 
 #--*.*--Hoạt hình--*.*--#
+
+#EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
@@ -61,15 +116,30 @@ http://oaktvpro.club:8080/992879023/B2005CC1/17577
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="DISNEY JR HD" tvg-logo="http://oaktvpro.club:8080/images/843ab947cb4d3ccfc498dae43a9df626.png" group-title="🌈| Hoạt hình",DISNEY JR HD
 http://oaktvpro.club:8080/992879023/B2005CC1/17578
 
-
-
 #--*.*--Thời trang--*.*--#
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="🤣| Thời trang" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="Lifestyle",Fashion TV UHD
+#EXTINF:-1 tvg-id="FashionTVUHD.fr" tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="🤣| Thời trang", Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#--*.*--MTV--*.*--#
+
+#EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
+
+#EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/MTV_Live_HD.png", MTV LIVE HD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/197
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV",Canal+ Premium Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
+http://tiemnhazunn.click/daddylivehd/566/index.m3u8
 
 
 #--*.*--Thiết yếu--*.*--#
@@ -377,6 +447,21 @@ https://code.vthanhtivi.pw/getlink/nethubtv/9367/1.m3u8
 
 #--*.*--Đối ngoại/Tin tức quốc tế--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=349
+http://tiemnhazunn.click/daddylivehd/349/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",BBC One
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=356
+http://tiemnhazunn.click/daddylivehd/356/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",BBC Two
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=357
+http://tiemnhazunn.click/daddylivehd/357/index.m3u8
+
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png", Bloomberg TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -478,26 +563,243 @@ http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64ef4338bc214f77a5db6ce9_Rock-Action_web_image.jpg", Rock Action
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
+#EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 
+#EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
+#EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
+https://nettv.flynet.hu:443/live/tlc.m3u8
 
+#--*.*--SPORT--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=31
+http://tiemnhazunn.click/daddylivehd/31/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=32
+http://tiemnhazunn.click/daddylivehd/32/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=33
+http://tiemnhazunn.click/daddylivehd/33/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=34
+http://tiemnhazunn.click/daddylivehd/34/index.m3u8
 
+#EXTINF:-1 tvg-id="tntsport1" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 1
+#http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="tntsport2" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 2
+#http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="tntsport3" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 3
+#http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="tntsport4" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 4
+#http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Arena_Sport_3.png/revision/latest?cb=20210319044343", ARENA SPORTS 3
+http://80.252.37.194:5000/udp/233.233.233.5:12000
 
+#EXTINF:-1 tvg-id="maxsport1" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Max_Sport_1_HD.svg/revision/latest?cb=20210516104427", MAX SPORTS 1
+http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
 
+#EXTINF:-1 tvg-id="maxsport2" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Max_Sport_2_HD.svg/revision/latest?cb=20210516104434", MAX SPORTS 2
+http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8
 
+#EXTINF:-1 tvg-id="maxsport3" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Max-sport-3-logo.png/revision/latest/scale-to-width-down/1000?cb=20230404074842", MAX SPORTS 3
+http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
 
+#EXTINF:-1 tvg-id="maxsport4" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Max_Sport_4_HD.svg/revision/latest?cb=20210516104447", MAX SPORTS 4
+http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
+#EXTINF:-1 tvg-id="novasport1" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Nova_Sport_1_HD.jpg/revision/latest?", NOVA SPORT 1
+http://185.188.188.235/live/novasport1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="novasport2" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Nova_Sport_2_HD.jpg/revision/latest?cb=20180810045233", NOVA SPORT 2
+http://185.188.188.235/live/novasport2/playlist.m3u8
 
+#EXTINF:-1 tvg-id="novasport3" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Nova_Sport_3.svg/revision/latest?cb=20210823172845", NOVA SPORT 3
+http://185.188.188.235/live/novasport3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="setantasport1" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515", SETANTA SPORT 1
+http://vdbrt.kazaktelekom.com/iptv/UU7ZK4DPLXPR2P/5069/index.m3u8
+
+#EXTINF:-1 tvg-id="edge" group-title="⚽️| SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg", EDGE Sport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/espn-symbol.jpg", ESPN
+http://143.244.60.30/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/espn-symbol.jpg", ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/espn.png", ESPN FHD 
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/769
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/espn2.png", ESPN 2 FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/771
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/laz.espn3.png", ESPN 3 FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/772
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/espn4hd.png", ESPN 4 FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/89168
+
+#EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/espnextra.png", ESPN EXTRA FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/770
+
+#EXTINF:-1 tvg-id="foxsport" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/foxsports2.png", FOX SPORTS 2 FHD
+http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/773
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/10/60/28/-channel!3d1.png" group-title="⚽️| SPORT" group-logo="https://cdn.antmediatv.xyz/group/KIPTV.png", Маtch TV
+http://194.143.148.28/MatchHD/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Astro SuperSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=123
+http://tiemnhazunn.click/daddylivehd/123/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Astro SuperSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=124
+http://tiemnhazunn.click/daddylivehd/124/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Astro SuperSport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=125
+http://tiemnhazunn.click/daddylivehd/125/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Astro SuperSport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
+http://tiemnhazunn.click/daddylivehd/126/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=134
+http://tiemnhazunn.click/daddylivehd/134/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 2 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=135
+http://tiemnhazunn.click/daddylivehd/135/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 3 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=139
+http://tiemnhazunn.click/daddylivehd/139/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=486
+http://tiemnhazunn.click/daddylivehd/486/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=487
+http://tiemnhazunn.click/daddylivehd/487/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=488
+http://tiemnhazunn.click/daddylivehd/488/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=489
+http://tiemnhazunn.click/daddylivehd/489/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=490
+http://tiemnhazunn.click/daddylivehd/490/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 1 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=631
+http://tiemnhazunn.click/daddylivehd/631/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 2 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=632
+http://tiemnhazunn.click/daddylivehd/632/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 3 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=633
+http://tiemnhazunn.click/daddylivehd/633/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 4 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=634
+http://tiemnhazunn.click/daddylivehd/634/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 5 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=635
+http://tiemnhazunn.click/daddylivehd/635/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports 6 Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=636
+http://tiemnhazunn.click/daddylivehd/636/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Premier League Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=599
+http://tiemnhazunn.click/daddylivehd/599/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Start Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=637
+http://tiemnhazunn.click/daddylivehd/637/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Prime Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=638
+http://tiemnhazunn.click/daddylivehd/638/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports News Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=639
+http://tiemnhazunn.click/daddylivehd/639/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=584
+http://tiemnhazunn.click/daddylivehd/584/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=585
+http://tiemnhazunn.click/daddylivehd/585/index.m3u8
+
+#--*.*--SkySport--*.*--#
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 7 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=594
+http://tiemnhazunn.click/daddylivehd/594/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 8 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=595
+http://tiemnhazunn.click/daddylivehd/595/index.m3u8
 
 
 
