@@ -269,6 +269,15 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌈| Hoạt hình", BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="" group-title="🌈| Hoạt hình", BBC 3
+http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
+
+#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" group-title="🌈| Hoạt hình" tvg-logo="", BabyShark
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="http://oaktv.pro:8080/images/1eaf598f1204f2779a66d12c7b7bc14e.png" group-title="🌈| Hoạt hình",BOOMERANG HD
 http://oaktvpro.club:8080/992879023/B2005CC1/5472
 
@@ -311,6 +320,20 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/197
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
 http://tiemnhazunn.click/daddylivehd/566/index.m3u8
+
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvlivehd.png" group-title="MTV",MTV LIVE
+http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3067
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="MTV",Sony Ten 1 HD
+http://watchindia.net:8880/live/60427/00546/1756.ts
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_2_HD.png" group-title="MTV",Sony Ten 2 HD
+http://watchindia.net:8880/live/60427/00546/1757.ts
+
+#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_3_HD.png" group-title="MTV",Sony Ten 3 HD
+http://watchindia.net:8880/live/60427/00546/1758.ts
+
+
 
 
 #--*.*--Thiết yếu--*.*--#
