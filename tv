@@ -245,15 +245,15 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/796
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/HBO-XTREME.png", HBO XTREME FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/798
 
-#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/sonychannel.png", CANAL SONY FHD H265
+#EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/sonychannel.png", SONY FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
 http://tiemnhazunn.click/daddylivehd/374/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Canal+ Premium Poland
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Canal+ Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
 http://tiemnhazunn.click/daddylivehd/566/index.m3u8
