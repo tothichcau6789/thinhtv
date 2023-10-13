@@ -1329,7 +1329,15 @@ http://tiemnhazunn.click/daddylivehd/366/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=449
 http://tiemnhazunn.click/daddylivehd/449/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=413
+http://tiemnhazunn.click/daddylivehd/413/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",SuperSport Premier league
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=414
+http://tiemnhazunn.click/daddylivehd/414/index.m3u8
 
 
 
@@ -1355,7 +1363,7 @@ http://vthanhtivi.pw:5000/kcine/index.m3u8
 http://vthanhtivi.pw:5000/klife/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-https://asia.vthanhtivi.pw/ksport1/index.m3u8
+https://asia.vthanhtivi.pw/test/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 https://asia.vthanhtivi.pw/ksport2/index.m3u8
