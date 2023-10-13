@@ -182,8 +182,18 @@ http://vthanhtivi.pw:5000/cinemax/index.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 http://210.210.155.35/dr9445/h/h04/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
+http://tiemnhazunn.click/daddylivehd/374/index.m3u8
+
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="🎬| HBO-GO",PARAMOUNT CHANEL HD
 http://oaktvpro.club:8080/992879023/B2005CC1/3520
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO", Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=334
+http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -243,6 +253,15 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
 http://tiemnhazunn.click/daddylivehd/374/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Canal+ Premium Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
+http://tiemnhazunn.click/daddylivehd/566/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Polsat Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=564
+http://tiemnhazunn.click/daddylivehd/564/index.m3u8
 
 #--*.*--Hoạt hình--*.*--#
 
@@ -269,7 +288,7 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌈| Hoạt hình", BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="" group-title="🌈| Hoạt hình", BBC 3
+#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="" group-title="🌈| Hoạt hình", BBC Cbeebies
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
 
 #EXTINF:-1 tvg-id="" tvg-name="Baby Shark" group-title="🌈| Hoạt hình" tvg-logo="", BabyShark
@@ -295,6 +314,11 @@ http://oaktvpro.club:8080/992879023/B2005CC1/17577
 
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="DISNEY JR HD" tvg-logo="http://oaktvpro.club:8080/images/843ab947cb4d3ccfc498dae43a9df626.png" group-title="🌈| Hoạt hình",DISNEY JR HD
 http://oaktvpro.club:8080/992879023/B2005CC1/17578
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🌈| Hoạt hình",Disney XD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=314
+http://tiemnhazunn.click/daddylivehd/314/index.m3u8
 
 #--*.*--Thời trang--*.*--#
 
@@ -323,6 +347,17 @@ http://tiemnhazunn.click/daddylivehd/566/index.m3u8
 
 #EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvlivehd.png" group-title="MTV",MTV LIVE
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3067
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV", MTV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=367
+http://tiemnhazunn.click/daddylivehd/367/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV", MTV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=371
+http://tiemnhazunn.click/daddylivehd/371/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/Sony_Ten_1_HD.png" group-title="MTV",Sony Ten 1 HD
 http://watchindia.net:8880/live/60427/00546/1756.ts
@@ -664,6 +699,11 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🌏| Đối ngoại/Tin tức quốc tế",CNBC USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=309
+http://tiemnhazunn.click/daddylivehd/309/index.m3u8
+
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 
@@ -723,6 +763,9 @@ http://vthanhtivi.pw:5000/history/index.m3u8
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 https://code.vthanhtivi.pw/getlink/tv360/ka39E3Viw6rsI5h-JDJV_A/1697089749/216/playlist.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-group" group-title="🌿| Khám phá" tvg-logo="https://cdn.antmediatv.xyz/ngw.png" , Nat Geo Wild
+http://line.premium-dino.com:80/oyf7u5uceo/l97xuog33i/281666
 
 #--*.*--Giải trí--*.*--#
 
@@ -973,6 +1016,11 @@ http://tiemnhazunn.click/daddylivehd/638/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=639
 http://tiemnhazunn.click/daddylivehd/639/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=583
+http://tiemnhazunn.click/daddylivehd/583/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=584
@@ -980,10 +1028,236 @@ http://tiemnhazunn.click/daddylivehd/584/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=586
+http://tiemnhazunn.click/daddylivehd/586/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Prima Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=585
 http://tiemnhazunn.click/daddylivehd/585/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=48
+http://tiemnhazunn.click/daddylivehd/48/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=486
+http://tiemnhazunn.click/daddylivehd/486/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 2 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=487
+http://tiemnhazunn.click/daddylivehd/487/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 3 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=488
+http://tiemnhazunn.click/daddylivehd/488/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 4 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=489
+http://tiemnhazunn.click/daddylivehd/489/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Canal+ Sport 5 Afrique
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=490
+http://tiemnhazunn.click/daddylivehd/490/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=537
+http://tiemnhazunn.click/daddylivehd/537/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 1 Bar DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=426
+http://tiemnhazunn.click/daddylivehd/426/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 2 Bar DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=427
+http://tiemnhazunn.click/daddylivehd/427/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 2 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=446
+http://tiemnhazunn.click/daddylivehd/446/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 3 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=447
+http://tiemnhazunn.click/daddylivehd/447/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 4 Spain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=448
+http://tiemnhazunn.click/daddylivehd/448/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=538
+http://tiemnhazunn.click/daddylivehd/538/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=400
+http://tiemnhazunn.click/daddylivehd/400/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=401
+http://tiemnhazunn.click/daddylivehd/401/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=402
+http://tiemnhazunn.click/daddylivehd/402/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=403
+http://tiemnhazunn.click/daddylivehd/403/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 1 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=71
+http://tiemnhazunn.click/daddylivehd/71/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 2 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=72
+http://tiemnhazunn.click/daddylivehd/72/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 3 Poland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=428
+http://tiemnhazunn.click/daddylivehd/428/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 1 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=455
+http://tiemnhazunn.click/daddylivehd/455/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 2 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=456
+http://tiemnhazunn.click/daddylivehd/456/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 3 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=457
+http://tiemnhazunn.click/daddylivehd/457/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 4 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=458
+http://tiemnhazunn.click/daddylivehd/458/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 5 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=459
+http://tiemnhazunn.click/daddylivehd/459/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",EuroSport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=41
+http://tiemnhazunn.click/daddylivehd/41/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",EuroSport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=42
+http://tiemnhazunn.click/daddylivehd/42/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Match Football 1 Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=136
+http://tiemnhazunn.click/daddylivehd/136/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Match Football 2 Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=137
+http://tiemnhazunn.click/daddylivehd/137/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Match Football 3 Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=138
+http://tiemnhazunn.click/daddylivehd/138/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Match Premier Russia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=573
+http://tiemnhazunn.click/daddylivehd/573/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Premier League Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=599
+http://tiemnhazunn.click/daddylivehd/599/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Start Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=637
+http://tiemnhazunn.click/daddylivehd/637/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Nova Sports Prime Greece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=638
+http://tiemnhazunn.click/daddylivehd/638/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",NBC Sports Bay Area
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=753
+http://tiemnhazunn.click/daddylivehd/753/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Orange Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=439
+http://tiemnhazunn.click/daddylivehd/439/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Orange Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=440
+http://tiemnhazunn.click/daddylivehd/440/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",RMC Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=119
+http://tiemnhazunn.click/daddylivehd/119/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",RMC Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=120
+http://tiemnhazunn.click/daddylivehd/120/index.m3u8
+
 #--*.*--SkySport--*.*--#
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 1 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=588
+http://tiemnhazunn.click/daddylivehd/588/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 2 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=589
+http://tiemnhazunn.click/daddylivehd/589/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 3 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=590
+http://tiemnhazunn.click/daddylivehd/590/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 4 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=591
+http://tiemnhazunn.click/daddylivehd/591/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 5 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=592
+http://tiemnhazunn.click/daddylivehd/592/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 6 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=593
+http://tiemnhazunn.click/daddylivehd/593/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 7 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -995,13 +1269,65 @@ http://tiemnhazunn.click/daddylivehd/594/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=595
 http://tiemnhazunn.click/daddylivehd/595/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport 9 NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=596
+http://tiemnhazunn.click/daddylivehd/596/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sport Select NZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=587
+http://tiemnhazunn.click/daddylivehd/587/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Football UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=35
+http://tiemnhazunn.click/daddylivehd/35/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Arena UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=36
+http://tiemnhazunn.click/daddylivehd/36/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Action UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=37
+http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=38
+http://tiemnhazunn.click/daddylivehd/38/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=130
+http://tiemnhazunn.click/daddylivehd/130/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports F1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=60
+http://tiemnhazunn.click/daddylivehd/60/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=65
+http://tiemnhazunn.click/daddylivehd/65/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports Golf UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=70
+http://tiemnhazunn.click/daddylivehd/70/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports News UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=366
+http://tiemnhazunn.click/daddylivehd/366/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="SkySport",Sky Sports MIX UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=449
+http://tiemnhazunn.click/daddylivehd/449/index.m3u8
 
 
 
