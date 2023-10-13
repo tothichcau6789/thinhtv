@@ -1333,26 +1333,34 @@ http://tiemnhazunn.click/daddylivehd/449/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
+http://watchindia.net:8880/live/60427/00546/2456.ts
+
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_2_HD.png" group-title="SkySport",Star Sports 2 HD
+http://watchindia.net:8880/live/60427/00546/1069.ts
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_1_HD.png" group-title="SkySport",Star Sports Select 1 HD
+http://watchindia.net:8880/live/60427/00546/1070.ts
+
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/Star_Sports_Select_2_HD.png" group-title="SkySport",Star Sports Select 2 HD
+http://watchindia.net:8880/live/60427/00546/1071.ts
 
 
+#--*.*--Kẹo--*.*--#
 
-
-
-
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
 http://vthanhtivi.pw:5000/kcine/index.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
 http://vthanhtivi.pw:5000/klife/index.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
 https://asia.vthanhtivi.pw/ksport1/index.m3u8
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
 https://asia.vthanhtivi.pw/ksport2/index.m3u8
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
 https://asia.vthanhtivi.pw/kkids/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - ClipTV
