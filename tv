@@ -869,35 +869,32 @@ https://nettv.flynet.hu:443/live/tlc.m3u8
 
 #--*.*--SPORT--*.*--#
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=31
 http://tiemnhazunn.click/daddylivehd/31/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=32
 http://tiemnhazunn.click/daddylivehd/32/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=33
 http://tiemnhazunn.click/daddylivehd/33/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",TNT Sports 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=34
 http://tiemnhazunn.click/daddylivehd/34/index.m3u8
 
 #EXTINF:-1 tvg-id="tntsport1" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 1
 #http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="tntsport2" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 2
 #http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="tntsport3" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 3
 #http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-id="tntsport4" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 4
 #http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
@@ -996,21 +993,6 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 1 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=134
-http://tiemnhazunn.click/daddylivehd/134/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 2 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=135
-http://tiemnhazunn.click/daddylivehd/135/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Arena Sport 3 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=139
-http://tiemnhazunn.click/daddylivehd/139/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=486
@@ -1081,37 +1063,22 @@ http://tiemnhazunn.click/daddylivehd/586/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=585
 http://tiemnhazunn.click/daddylivehd/585/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN F1
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-FORMULA-1.png" group-title="⚽️| SPORT",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=537
 http://tiemnhazunn.click/daddylivehd/537/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 1 Bar DE
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="⚽️| SPORT",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=426
 http://tiemnhazunn.click/daddylivehd/426/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 2 Bar DE
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=427
 http://tiemnhazunn.click/daddylivehd/427/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 2 Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=446
-http://tiemnhazunn.click/daddylivehd/446/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 3 Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=447
-http://tiemnhazunn.click/daddylivehd/447/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN 4 Spain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=448
-http://tiemnhazunn.click/daddylivehd/448/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",DAZN LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="⚽️| SPORT",DAZN LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=538
 http://tiemnhazunn.click/daddylivehd/538/index.m3u8
@@ -1121,17 +1088,17 @@ http://tiemnhazunn.click/daddylivehd/538/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=400
 http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport2.png" group-title="⚽️| SPORT",Digi Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=401
 http://tiemnhazunn.click/daddylivehd/401/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 3
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport3.png" group-title="⚽️| SPORT",Digi Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=402
 http://tiemnhazunn.click/daddylivehd/402/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Digi Sport 4
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="⚽️| SPORT",Digi Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=403
 http://tiemnhazunn.click/daddylivehd/403/index.m3u8
@@ -1227,50 +1194,6 @@ http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&exten
 
 #EXTINF:-1 tvg-id="" tvg-name="ViaplaySport2" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="⚽️| SPORT",ViaPlay Sports 2 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2  4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 1+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218698
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 2+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218699
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 3+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218700
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 4+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218701
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA 4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN EXTRA 4K+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218702
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 4K+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218703
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 4K+" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 2 4K++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218706
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 4K+" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 3 4K++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218707
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4  4K+" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 4  4K++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218708
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 4K+" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 4K++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218709
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN2" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 2++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218715
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 3" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 3++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218712
-
-#EXTINF:-1 tvg-id="" tvg-name="|ESPN| 4" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/espn-logo-espn-symbol-meaning-png-logo-0.png" group-title="⚽️| SPORT",ESPN 4++
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218713
-
-#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="⚽️| SPORT",ESPN PREMIUM+
-http://gustvplay.com:8080/C4x9vAvzmgXf/wGHnhJsY6uqT/218746
-
-
 
 
 
