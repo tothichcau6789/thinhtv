@@ -185,7 +185,7 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="starhd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.jpg", STAR CHANNEL FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/836
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax USA
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
 http://tiemnhazunn.click/daddylivehd/374/index.m3u8
@@ -193,7 +193,7 @@ http://tiemnhazunn.click/daddylivehd/374/index.m3u8
 #EXTINF:-1 tvg-id="510dtv.cl" tvg-name="PARAMOUNT CHANEL HD" tvg-logo="http://oaktvpro.club:8080/images/a8ac3ece61bd0e9996fc1530c6793009.png" group-title="🎬| HBO-GO",PARAMOUNT CHANEL HD
 http://oaktvpro.club:8080/992879023/B2005CC1/3520
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO", Paramount Network
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/paramountnetwork.png" group-title="🎬| HBO-GO", Paramount Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=334
 http://tiemnhazunn.click/daddylivehd/334/index.m3u8
@@ -251,17 +251,17 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/798
 #EXTINF:-1 tvg-id="sonyhd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/sonychannel.png", SONY FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
 http://tiemnhazunn.click/daddylivehd/374/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Canal+ Premium
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIUM.png" group-title="🎬| HBO-GO",Canal+ Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
 http://tiemnhazunn.click/daddylivehd/566/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="🎬| HBO-GO",Polsat Film
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/polsatfilm.png" group-title="🎬| HBO-GO",Polsat Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=564
 http://tiemnhazunn.click/daddylivehd/564/index.m3u8
@@ -283,21 +283,6 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/689
 
 #EXTINF:-1 tvg-id="sinesky" group-title="🎬| HBO-GO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925", CINE SKY 5
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/690
-
-#EXTINF:-1 tvg-id="skycinemaaction.uk" tvg-name="Sky Cinema Action" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Action.png" group-title="🎬| HBO-GO",Sky Cinema Action
-http://watchindia.net:8880/live/60427/00546/2176.ts
-
-#EXTINF:-1 tvg-id="skycinemathriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Thriller.png" group-title="🎬| HBO-GO",Sky Cinema Thriller
-http://watchindia.net:8880/live/60427/00546/2178.ts
-
-#EXTINF:-1 tvg-id="skycinemahits.uk" tvg-name="Sky Cinema Hits" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Hits.png" group-title="🎬| HBO-GO",Sky Cinema Hits
-http://watchindia.net:8880/live/60427/00546/2171.ts
-
-#EXTINF:-1 tvg-id="skycinemapremiere.uk" tvg-name="Sky Cinema Premiere" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Premiere.png" group-title="🎬| HBO-GO",Sky Cinema Premiere
-http://watchindia.net:8880/live/60427/00546/2169.ts
-
-#EXTINF:-1 tvg-id="skycinemascifihorror.uk" tvg-name="Sky Cinema Sci-Fi/Horror" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Sci-Fi_Horror.png" group-title="🎬| HBO-GO",Sky Cinema Sci-Fi/Horror
-http://watchindia.net:8880/live/60427/00546/2180.ts
 
 #--*.*--Hoạt hình--*.*--#
 
@@ -1103,17 +1088,17 @@ http://tiemnhazunn.click/daddylivehd/402/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=403
 http://tiemnhazunn.click/daddylivehd/403/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 1 Poland
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 1+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=71
 http://tiemnhazunn.click/daddylivehd/71/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 2 Poland
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 2+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=72
 http://tiemnhazunn.click/daddylivehd/72/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="⚽️| SPORT",Eleven Sports 3 Poland
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 3+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=428
 http://tiemnhazunn.click/daddylivehd/428/index.m3u8
@@ -1231,9 +1216,6 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6240
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=37
 http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga" tvg-logo="http://logo.protv.cc/picons/logos/skysportbundesliga.png" group-title="SkySport",Sky Sport Bundesliga FHD
-http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=434505&extension=ts&play_token=lg4yD24Nfg
-
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
 http://watchindia.net:8880/live/60427/00546/2456.ts
 
@@ -1266,9 +1248,6 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6281
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SUPERSPORT PREMIER LEAGUE
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6282
-
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PSL" tvg-logo="" group-title="SkySport",SUPERSPORT PSL
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6283
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="SkySport",DAZN 1
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6232
