@@ -1237,6 +1237,13 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",Star Sports Select 2 HD
 http://watchindia.net:8880/live/60427/00546/1071.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",STAR SPORTS SELECT 1
+http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6256
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
+http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6257
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 1" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SkySport",SUPERSPORT VARIETY 1
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6276
 
