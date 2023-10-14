@@ -1274,19 +1274,19 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 #--*.*--Kẹo--*.*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-http://vthanhtivi.pw:5000/kcine/index.m3u8
+#http://vthanhtivi.pw:5000/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - MyK+
-http://vthanhtivi.pw:5000/klife/index.m3u8
+#http://vthanhtivi.pw:5000/klife/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-https://asia.vthanhtivi.pw/test/index.m3u8
+#https://asia.vthanhtivi.pw/test/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-https://asia.vthanhtivi.pw/ksport2/index.m3u8
+#https://asia.vthanhtivi.pw/ksport2/index.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-https://asia.vthanhtivi.pw/kkids/index.m3u8
+#https://asia.vthanhtivi.pw/kkids/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - ClipTV
 #https://asia.vthanhtivi.pw/kcine/index.m3u8
@@ -1314,5 +1314,17 @@ http://103.82.26.118/live_restream/ksport1hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - Vệ tinh
 http://103.82.26.118/live_restream/ksport2hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE VtvCab
+https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/kcinehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE VtvCab
+https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/klifehd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 Mytv
+https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/ksport1hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 Mytv
+https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/ksport2hd/playlist.m3u8
 
 
