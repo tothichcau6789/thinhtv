@@ -108,7 +108,7 @@ https://khanggtivi.xyz/cliptv/12ede27a1d59cd0fd8a8f9757812bf98922901a613fba9a6d7
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab17-yeah1-tv/dvr-${start}-${offset}.m3u8", VTV Cab 17 ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.antmediatv.xyz/getplay/14291ec2307e51b0cc42651814fb1334dd4368fbf5a1aa27472695dc62d4560da6/onplus/YEAH1_TV/m30_index.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/ontrending/82311.m3u8
 
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTV Cab 18 ON Sports News
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -116,7 +116,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/82309.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/14291ec2307e51b0cc42651814fb1334dd4368fbf5a1aa27472695dc62d4560da6/mytv/201/hd.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/viedramas/82314.m3u8
 
 #EXTINF:-1 group-title="VTVCab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", VTV Cab 20 ON VFamily
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
