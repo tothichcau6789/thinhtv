@@ -286,6 +286,9 @@ https://live.khanggtivi.xyz/warnertv
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="🎬| HBO-GO",WARNER TV
 http://oaktvpro.club:8080/992879023/B2005CC1/97264
 
+#EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="🎬| HBO-GO", Cine Premiere
+https://i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8
+
 #--*.*--Hoạt hình--*.*--#
 
 #EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
@@ -365,24 +368,20 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/MTV_Live_HD.png", MTV LIVE HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/197
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV",Canal+ Premium Poland
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=566
-http://tiemnhazunn.click/daddylivehd/566/index.m3u8
-
 #EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvlivehd.png" group-title="MTV",MTV LIVE
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3067
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV", MTV UK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=367
-http://tiemnhazunn.click/daddylivehd/367/index.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="2550" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="MTV", MTV Spankin' New
+https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.digitbin.com/wp-content/uploads/DaddyHD-Live-TV-Site.png" group-title="MTV", MTV USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=371
-http://tiemnhazunn.click/daddylivehd/371/index.m3u8
+#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-chno="2555" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" group-title="MTV", MTV Biggest Pop
+https://i.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
 
+#EXTINF:-1 channel-id="pluto-5d14fc31252d35decbc4080b" tvg-id="5d14fc31252d35decbc4080b" tvg-chno="2520" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" group-title="MTV", Yo! MTV
+https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="2560" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="MTV", MTV Block Party
+https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="MTV",Sony Ten 1 HD
 http://watchindia.net:8880/live/60427/00546/1756.ts
