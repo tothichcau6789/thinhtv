@@ -1318,7 +1318,7 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - VtvCab
 http://103.82.26.118/live_restream/kcinehd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE - Vệ tinh
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+ LIFE - Vệ tinh
 http://103.82.26.118/live_restream/klifehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - Mytv
@@ -1330,7 +1330,7 @@ http://103.82.26.118/live_restream/ksport2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE VtvCab
 https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/kcinehd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ LIFE VtvCab
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+ LIFE VtvCab
 https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/klifehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 Mytv
@@ -1338,5 +1338,4 @@ https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd3
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 Mytv
 https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/ksport2hd/playlist.m3u8
-
 
