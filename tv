@@ -287,6 +287,12 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/689
 #EXTINF:-1 tvg-id="sinesky" group-title="🎬| HBO-GO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925", CINE SKY 5
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/690
 
+#EXTINF:0 tvg-id="WarnerBros" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_BROS.png",Warner Bros
+https://live.khanggtivi.xyz/warnertv
+
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="🎬| HBO-GO",WARNER TV
+http://oaktvpro.club:8080/992879023/B2005CC1/97264
+
 #--*.*--Hoạt hình--*.*--#
 
 #EXTINF:-1 tvg-id="happykids" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
@@ -312,13 +318,14 @@ https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌈| Hoạt hình", BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="" group-title="🌈| Hoạt hình", BBC Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BBC_CBEEBIES.png" group-title="🌈| Hoạt hình", BBC Cbeebies
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
 
-#EXTINF:-1 tvg-id="" tvg-name="Baby Shark" group-title="🌈| Hoạt hình" tvg-logo="", BabyShark
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
+http://oaktvpro.club:8080/992879023/B2005CC1/5471
 
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
+
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="http://oaktv.pro:8080/images/1eaf598f1204f2779a66d12c7b7bc14e.png" group-title="🌈| Hoạt hình",BOOMERANG HD
@@ -1183,7 +1190,20 @@ http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&exten
 #EXTINF:-1 tvg-id="" tvg-name="ViaplaySport2" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="⚽️| SPORT",ViaPlay Sports 2 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=154405&extension=ts&play_token=Sz0cj6w84W
 
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Golf" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZIGGO_SPORT_RACING_HD.png" group-title="⚽️| SPORT",Ziggo Sport Golf FHD
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270645&extension=ts&play_token=1M5t6fVM7z
 
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Racing" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZIGGO_SPORT_RACING_HD.png" group-title="⚽️| SPORT",Ziggo Sport Racing FHD
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270643&extension=ts&play_token=J0tGnAJCKR
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Select" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZIGGO_SPORT_RACING_HD.png" group-title="⚽️| SPORT",Ziggo Sport Select FHD
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270642&extension=ts&play_token=WUGeZBPz1e
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Voetbal" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZIGGO_SPORT_RACING_HD.png" group-title="⚽️| SPORT",Ziggo Sport Voetbal
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270644&extension=ts&play_token=UJyqT2LH2i
+
+#EXTINF:-1 tvg-id="" tvg-name="Ziggo Sport Sports" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZIGGO_SPORT_RACING_HD.png" group-title="⚽️| SPORT",Ziggo Sport Sports FHD
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=270641&extension=ts&play_token=0OGxwrh8Na
 
 #--*.*--SkySport--*.*--#
 
