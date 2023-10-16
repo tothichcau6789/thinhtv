@@ -86,7 +86,7 @@ https://drm-livecdn.khanggtivi.xyz/360/12ede27a1d59cd0fd8a8f9757812bf98922901a61
 
 #EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/22.png", VTVcab 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/vieon2/vtvcab11-vgs-shop/playlist.m3u8
+#https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/vieon2/vtvcab11-vgs-shop/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab12-style-tv/dvr-${start}-${offset}.m3u8", VTV Cab 12 ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1318,7 +1318,7 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - VtvCab
 http://103.82.26.118/live_restream/kcinehd/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+ LIFE - Vệ tinh
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+Action - Vệ tinh
 http://103.82.26.118/live_restream/klifehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - Mytv
@@ -1330,7 +1330,7 @@ http://103.82.26.118/live_restream/ksport2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE VtvCab
 https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/kcinehd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+ LIFE VtvCab
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/66/Kplus_Action.png/revision/latest/scale-to-width-down/1000?cb=20231001110833&path-prefix=vi", K+Action VtvCab
 https://live.khanggtivi.xyz/554237cacac4db83db324faf47f7b7462390c52088f74f332bd353b5527d56ad0e37c7/klifehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 Mytv
