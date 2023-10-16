@@ -251,7 +251,7 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/798
 #EXTINF:-1 tvg-id="sonyhd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/sonychannel.png", SONY FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 
-#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/sonymoviechannel.png" group-title="PREMIUM MOVIE",SONY MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/sonymoviechannel.png" group-title="🎬| HBO-GO",SONY MOVIES
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/4051
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax
@@ -269,7 +269,7 @@ http://tiemnhazunn.click/daddylivehd/566/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=564
 http://tiemnhazunn.click/daddylivehd/564/index.m3u8
 
-#EXTINF:-1 tvg-id="usa" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/USA-NETWORK-HD.jpg", USA Networks FHD
+#EXTINF:-1 tvg-id="usa" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/USA-NETWORK-HD.jpg", USA Networks
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:BE:C6:47&stream=32039&extension=ts&play_token=avlLrWPM6j
 
 #EXTINF:-1 tvg-id="sinesky" group-title="🎬| HBO-GO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Skytvnew1.png/revision/latest?cb=20210507201925", CINE SKY 1
