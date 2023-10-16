@@ -102,7 +102,7 @@ https://drm-livecdn.khanggtivi.xyz/360/12ede27a1d59cd0fd8a8f9757812bf98922901a61
 
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/27.png", VTV Cab 16 ON Football HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://rutgonlink.mobi/Khích-TiVi-live.8080-vtvcab16-hd.m3u8
+https://khanggtivi.xyz/cliptv/12ede27a1d59cd0fd8a8f9757812bf98922901a613fba9a6d703a3300028801b3f1f68/on-football/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab17-yeah1-tv/dvr-${start}-${offset}.m3u8", VTV Cab 17 ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
