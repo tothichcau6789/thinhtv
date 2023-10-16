@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml,https://code.antmediatv.xyz/epg"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml, url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml", url-tvg="https://code.antmediatv.xyz/epg"
 
 #--*.*--VTV--*.*--#
 
