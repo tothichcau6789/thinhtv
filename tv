@@ -1134,6 +1134,9 @@ http://tiemnhazunn.click/daddylivehd/457/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=459
 http://tiemnhazunn.click/daddylivehd/459/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="⚽️| SPORT",Eurosports
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/021eurosport.png" group-title="⚽️| SPORT",EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=41
