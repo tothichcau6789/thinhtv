@@ -248,6 +248,9 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/sonymoviechannel.png" group-title="🎬| HBO-GO",SONY MOVIES
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/4051
 
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
