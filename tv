@@ -159,12 +159,6 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://rutgonlink.mobi/KhíchTV.live.8080-Happy-Kids-playlist.m3u8
 
-
-
-
-
-
-
 #--*.*--HBO-GO--*.*--#
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
@@ -248,7 +242,7 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/844
 #EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/sonymoviechannel.png" group-title="🎬| HBO-GO",SONY MOVIES
 http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/4051
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="Movies",Cine Sony
+#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="🎬| HBO-GO",Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax
