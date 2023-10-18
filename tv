@@ -883,6 +883,9 @@ http://tiemnhazunn.click/daddylivehd/34/index.m3u8
 #EXTINF:-1 tvg-id="tntsport4" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 4
 #http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
+#EXTINF:-1 tvg-id="arenasport1" tvg-logo="https://i.ibb.co/t3rLrMj/download-2023-10-11-T094042-446.png" group-title="⚽️| SPORT", ARENA 1
+http://iptvaruba.com:8080/live/babar2020ex/sdDFGFtM8QnwbgWZ/3601.ts
+
 #EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png", ARENA SPORTS 3
 http://80.252.37.194:5000/udp/233.233.233.5:12000
 
@@ -895,7 +898,7 @@ http://93.155.227.38:90/m3u8/arenasport3.m3u8
 #EXTINF:-1 tvg-id="arenasport4" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport4-drukahehip.png", ARENA SPORTS 4
 http://93.155.227.38:90/m3u8/arenasport4.m3u8
 
-#EXTINF:-1 tvg-id="arenasport5" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport5-drukahehip.png", ARENA SPORTS 4
+#EXTINF:-1 tvg-id="arenasport5" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport5-drukahehip.png", ARENA SPORTS 5
 http://93.155.227.38:90/m3u8/arenasport5.m3u8
 
 #EXTINF:-1 tvg-id="maxsport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/maxsport1.png", MAX SPORTS 1
