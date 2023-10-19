@@ -1214,34 +1214,34 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=2706
 #--*.*--SkySport--*.*--#
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons/logos/skysportsarena.png" group-title="SkySport",SKY SPORTS ARENA
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6235
+http://watchindia.net:8880/live/60427/00546/2095.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport",SKY SPORTS CRICKET
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6236
+http://watchindia.net:8880/live/60427/00546/2090.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons/logos/skysportf1hd.png" group-title="SkySport",SKY SPORTS F1
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6238
+http://watchindia.net:8880/live/60427/00546/2094.ts
 
 #EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
-http://watchindia.net:8880/live/60427/00546/2092.ts
+#http://watchindia.net:8880/live/60427/00546/2092.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",SKY SPORTS PREMIER LEAGUE
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6245
+http://watchindia.net:8880/live/60427/00546/2092.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/skysportfootballhd.png" group-title="SkySport",SKY SPORTS FOOTBALL
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6239
+http://watchindia.net:8880/live/60427/00546/2093.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAINEVENT" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmaineventhd.png" group-title="SkySport",SKY SPORTS MAINEVENT
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6242
+http://watchindia.net:8880/live/60427/00546/2091.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmixhd.png" group-title="SkySport",SKY SPORTS MIX
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6243
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6243
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons/logos/skysportsnews.png" group-title="SkySport",SKY SPORTS NEWS
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6244
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6244
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons/logos/skysportgolfhd.png" group-title="SkySport",SKY SPORTS GOLF
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6240
+http://watchindia.net:8880/live/60427/00546/2096.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -1249,7 +1249,7 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6240
 http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACE" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport",SKY SPORTS RACE
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6246
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6246
 
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
 http://watchindia.net:8880/live/60427/00546/2456.ts
@@ -1264,32 +1264,31 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 http://watchindia.net:8880/live/60427/00546/1071.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",STAR SPORTS SELECT 1
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6256
+http://watchindia.net:8880/live/60427/00546/1070.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6257
-
+http://watchindia.net:8880/live/60427/00546/1071.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 1" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SkySport",SUPERSPORT VARIETY 1
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6276
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6276
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 2" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SkySport",SUPERSPORT VARIETY 2
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6277
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6277
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 3" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SkySport",SUPERSPORT VARIETY 3
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6278
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6278
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SkySport",SUPERSPORT VARIETY 4
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6279
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6279
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SkySport",SUPERSPORT FOOTBALL
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6280
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6280
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT LALIGA" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SkySport",SUPERSPORT LALIGA
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6281
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6281
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SUPERSPORT PREMIER LEAGUE
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6282
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6282
 
 
 #--*.*--Kẹo--*.*--#
