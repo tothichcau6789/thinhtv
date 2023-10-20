@@ -282,6 +282,9 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/690
 https://live.khanggtivi.xyz/warnertv
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="🎬| HBO-GO",WARNER TV
+http://103.166.184.82:1234/stream/warnertv/master.m3u8?u=khangtv&p=524b08fc0847fefd0b2031103bc5e7971878380c3788b592c87388d61051c4ec
+
+#EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="🎬| HBO-GO",WARNER TV
 http://oaktvpro.club:8080/992879023/B2005CC1/97264
 
 #EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="🎬| HBO-GO", Cine Premiere
