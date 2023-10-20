@@ -1343,6 +1343,9 @@ https://drm-livecdn.khanggtivi.xyz/kplus/016f37617892d38b2742f8d449c300f0b5df1ac
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - Mytv1
 http://103.82.26.118/live_restream/ksport1hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
+http://103.166.184.82:1234/stream/kpluslife/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
+
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD - Mytv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.khanggtivi.xyz/ef4e648c7ef7a1bb72df741e2594da79fcf82f5acdf0490f3a784b559255194db755ac/ksport1hd/playlist.m3u8
