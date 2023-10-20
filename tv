@@ -1229,7 +1229,7 @@ http://watchindia.net:8880/live/60427/00546/2094.ts
 #EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
 #http://watchindia.net:8880/live/60427/00546/2092.ts
 
-#EXTINF:-1 group-title="SkySports" tvg-logo="http://logo.protv.cc/picons/logos/skysportspremierleaguehd.png", Sky Sports Premier league
+#EXTINF:-1 group-title="kySport" tvg-logo="http://logo.protv.cc/picons/logos/skysportspremierleaguehd.png", Sky Sports Premier league
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508256
 
