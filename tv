@@ -1245,6 +1245,9 @@ http://watchindia.net:8880/live/60427/00546/2091.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons/logos/skysportgolfhd.png" group-title="SkySport",SKY SPORTS GOLF
 http://watchindia.net:8880/live/60427/00546/2096.ts
 
+#EXTINF:-1 group-title="SkySport" tvg-logo="http://gg.gg/ssnews1kkk", Sky Sports News
+http://bollox.ie:8080/play/live.php?mac=00:1A:79:4A:6C:36&stream=188782&extension=ts&play_token=rvwAUT83he
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=37
