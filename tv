@@ -1224,10 +1224,7 @@ http://watchindia.net:8880/live/60427/00546/2095.ts
 http://watchindia.net:8880/live/60427/00546/2143.ts
 
 #EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
-http://watchindia.net:8880/live/60427/00546/2092.ts
-
-#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
-http://watchindia.net:8880/live/60427/00546/2092.ts
+http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/skysportfootballhd.png" group-title="SkySport",SKY SPORTS FOOTBALL
 http://watchindia.net:8880/live/60427/00546/2093.ts
