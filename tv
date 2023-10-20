@@ -1213,6 +1213,10 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=2706
 
 #--*.*--SkySport--*.*--#
 
+#EXTINF:-1 group-title="SkySports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports Tennis
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons/logos/skysportsarena.png" group-title="SkySport",SKY SPORTS ARENA
 http://watchindia.net:8880/live/60427/00546/2095.ts
 
@@ -1225,6 +1229,10 @@ http://watchindia.net:8880/live/60427/00546/2094.ts
 #EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
 #http://watchindia.net:8880/live/60427/00546/2092.ts
 
+#EXTINF:-1 group-title="SkySports" tvg-logo="http://logo.protv.cc/picons/logos/skysportspremierleaguehd.png", Sky Sports Premier league
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/508256
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SUPER SPORTS PREMIER LEAGUE
 http://watchindia.net:8880/live/60427/00546/2092.ts
 
@@ -1234,12 +1242,6 @@ http://watchindia.net:8880/live/60427/00546/2093.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAINEVENT" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmaineventhd.png" group-title="SkySport",SKY SPORTS MAINEVENT
 http://watchindia.net:8880/live/60427/00546/2091.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmixhd.png" group-title="SkySport",SKY SPORTS MIX
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6243
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons/logos/skysportsnews.png" group-title="SkySport",SKY SPORTS NEWS
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6244
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons/logos/skysportgolfhd.png" group-title="SkySport",SKY SPORTS GOLF
 http://watchindia.net:8880/live/60427/00546/2096.ts
 
@@ -1248,8 +1250,20 @@ http://watchindia.net:8880/live/60427/00546/2096.ts
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=37
 http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACE" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport",SKY SPORTS RACE
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6246
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmix.png" group-title="SkySport",Sky Sports MIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=449
+http://tiemnhazunn.click/daddylivehd/449/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportbundesliga.png" group-title="Daddylivehd",Sky Sport Bundesliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=558
+http://tiemnhazunn.click/daddylivehd/558/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="Daddylivehd",Sky Sports Racing UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=554
+http://tiemnhazunn.click/daddylivehd/554/index.m3u8
 
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
 http://watchindia.net:8880/live/60427/00546/2456.ts
@@ -1269,27 +1283,40 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
 http://watchindia.net:8880/live/60427/00546/1071.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 1" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SkySport",SUPERSPORT VARIETY 1
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6276
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SkySport",SuperSport Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=412
+http://tiemnhazunn.click/daddylivehd/412/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 2" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SkySport",SUPERSPORT VARIETY 2
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6277
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com//logo/tv/ss/supersport-psl-za.png" group-title="SkySport",SuperSport PSL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=413
+http://tiemnhazunn.click/daddylivehd/413/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 3" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SkySport",SUPERSPORT VARIETY 3
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6278
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SkySport",SuperSport LaLiga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=415
+http://tiemnhazunn.click/daddylivehd/415/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SkySport",SUPERSPORT VARIETY 4
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6279
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.livematch.ge/img/supersport-rugby.png" group-title="SkySport",SuperSport Rugby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=421
+http://tiemnhazunn.click/daddylivehd/421/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SkySport",SUPERSPORT FOOTBALL
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6280
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SkySport",Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=56
+http://tiemnhazunn.click/daddylivehd/56/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT LALIGA" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SkySport",SUPERSPORT LALIGA
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6281
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-CRICKET.png" group-title="SkySport",SuperSport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=368
+http://tiemnhazunn.click/daddylivehd/368/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SUPERSPORT PREMIER LEAGUE
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6282
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SkySport",SuperSport MaXimo 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=572
+http://tiemnhazunn.click/daddylivehd/572/index.m3u8
 
 #--*.*--Kẹo--*.*--#
 
