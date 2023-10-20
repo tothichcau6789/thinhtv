@@ -1360,6 +1360,20 @@ http://103.166.184.82:1234/stream/kids/master.m3u8?u=baochau&p=bce092138edfb91fa
 #https://live.khanggtivi.xyz/ef4e648c7ef7a1bb72df741e2594da79fcf82f5acdf0490f3a784b559255194db755ac/ksport1hd/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", phim
+https://rutgonlink.mobi/YXdKcL
+
+#EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", phim HD
+https://rutgonlink.mobi/QeTAU
+
+#EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", BD1
+https://rutgonlink.mobi/odbPc
+
+#EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", BD2
+https://rutgonlink.mobi/NxnRs
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", HH
+https://rutgonlink.mobi/YDKTB
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
