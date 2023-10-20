@@ -1213,7 +1213,7 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:b3:26:92&stream=2706
 
 #--*.*--SkySport--*.*--#
 
-#EXTINF:-1 group-title="SkySports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports Tennis
+#EXTINF:-1 group-title="SkySport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports Tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
 
