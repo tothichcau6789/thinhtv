@@ -1314,6 +1314,17 @@ http://tiemnhazunn.click/daddylivehd/368/index.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=572
 http://tiemnhazunn.click/daddylivehd/572/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport",SuperSport Premier league
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=414
+http://tiemnhazunn.click/daddylivehd/414/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=130
+http://tiemnhazunn.click/daddylivehd/130/index.m3u8
+
+
 #--*.*--Kẹo--*.*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
