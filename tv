@@ -1401,7 +1401,8 @@ https://rutgonlink.mobi/YXdKcL
 https://rutgonlink.mobi/QeTAU
 
 #EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", BD1
-https://rutgonlink.mobi/odbPc
+#https://rutgonlink.mobi/odbPc
+https://wintv.fun/ksport1/index.mpd
 
 #EXTINF:-1 tvg-id="phim" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/kr/spotvgnh.png", BD2
 https://rutgonlink.mobi/NxnRs
