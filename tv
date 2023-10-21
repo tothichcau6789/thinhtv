@@ -1229,7 +1229,7 @@ http://watchindia.net:8880/live/60427/00546/2095.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport",SKY SPORTS CRICKET
 http://watchindia.net:8880/live/60427/00546/2143.ts
 
-#EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
+#EXTINF:-1 tvg-id="supersportspremierleague" tvg-name="Super Sports Premier League" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SkySport", Super sports Premier League
 #http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
 http://watchindia.net:8880/live/60427/00546/2092.ts
 
@@ -1358,17 +1358,36 @@ https://drm-livecdn.khanggtivi.xyz/kplus/7d2bb2c8934516b239b9c95b8cbdd8d41d58732
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - Mytv
 http://103.82.26.118/live_restream/ksport1hd/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/45/index.m3u8
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
-http://103.166.184.82:1234/stream/kplus2/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/46/index.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
-http://103.166.184.82:1234/stream/kpluscine/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/51/index.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="🍭| K" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION
-http://103.166.184.82:1234/stream/kpluslife/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/52/index.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
-http://103.166.184.82:1234/stream/kids/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/6/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/47/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/48/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🍭| K" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
+https://drm-livecdn.khanggtivi.xyz/kplus/437f5d5f7703b7b6b87955efddc243551b6e3516ed69a77a179992aa7d4c8816e0d674/49/index.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD - Mytv
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1392,33 +1411,33 @@ https://rutgonlink.mobi/YDKTB
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/kpluscine/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/kpluscine/master.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/kpluslife/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/kpluslife/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/kplus1/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/kplus1/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/kplus2/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/kplus2/master.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/kids/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/kids/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/klive1/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/klive1/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/klive2/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/klive2/master.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/177d9212a40f5d08dec88ed7b76f9b8db8ea61cf0afe359b14e5247680b940f11c/stream/klive3/master.m3u8
+https://code.antmediatv.xyz/getplay/4c24cb341a206189a3fe18acbdc6e6097bd76577bd9faf1f4a64d304a102965756/stream/klive3/master.m3u8
 
