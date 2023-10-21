@@ -439,7 +439,7 @@ https://cdnw-liv02.todayplus.com.vn/hdb/smil:phimhay.smil/chunklist_b228915playl
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV
 https://hqth.me/hitv
 
-#EXTINF:-1 tvg-id="youtv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="💕| HCATV" tvg-logo="https://cdn.antmediatv.xyz/112.png", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=Khanggtivi/2.1
 https://live.khanggtivi.xyz/youtv
 
