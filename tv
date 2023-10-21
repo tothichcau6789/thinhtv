@@ -1227,7 +1227,8 @@ http://watchindia.net:8880/live/60427/00546/2095.ts
 http://watchindia.net:8880/live/60427/00546/2143.ts
 
 #EXTINF:-1 tvg-id="skysportspremierleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky Sports Premier League
-http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
+#http://raw.bitnode.pm:81/play/live.php?mac=00:1a:79:5c:90:68&stream=255098&extension=ts&play_token=Za0weY3vbC
+http://watchindia.net:8880/live/60427/00546/2092.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/skysportfootballhd.png" group-title="SkySport",SKY SPORTS FOOTBALL
 http://watchindia.net:8880/live/60427/00546/2093.ts
@@ -1322,7 +1323,7 @@ http://tiemnhazunn.click/daddylivehd/414/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport",Sky sports Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=130
-http://tiemnhazunn.click/daddylivehd/130/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/130/index.m3u8
 
 
 #--*.*--Kẹo--*.*--#
