@@ -321,6 +321,9 @@ http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
 #EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
 http://oaktvpro.club:8080/992879023/B2005CC1/5471
 
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
+https://drm-livecdn.khanggtivi.xyz/kplus/01e28df1c103ea699382785822e05a9b7bf4e57fe56dd7b564eb6c6d8f47fa2ab9959a/dreamworks/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
