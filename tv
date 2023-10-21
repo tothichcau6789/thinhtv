@@ -492,7 +492,7 @@ https://code.vthanhtivi.pw/getlink/tv360/ir-8WClvEslGbbG62FlSEA/1697089749/42/pl
 https://code.vthanhtivi.pw/getlink/tv360/4zm9oiOKZ5IIxA48NQ1zLg/1697089749/43/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", BTV3 | TH Bình Dương
-https://code.vthanhtivi.pw/getlink/nethubtv/9371/1.m3u8
+https://live.khanggtivi.xyz/btv3-hd
 
 #EXTINF:-1 tvg-id="binhduong4" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/118.png", BTV4 HD | TH Bình Dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -706,7 +706,7 @@ https://code.vthanhtivi.pw/getlink/tv360/ydPwX1sMzSsNtNPIpYuw5Q/1697089749/92/pl
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", BRT HD | TH Bà Rịa Vũng Tàu
-https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/fptplay/ba-ria-vung-tau/chunklist_b2500000.m3u8
+http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", YTV HD | TH Yên Bái
 https://code.vthanhtivi.pw/getlink/nethubtv/9367/1.m3u8
