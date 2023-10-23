@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://code.antmediatv.xyz/epg,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://code.antmediatv.xyz/epg,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
 
 #--*.*--VTV--*.*--#
 
@@ -8,18 +8,18 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/5a1041e9298c0d1e0c3dcb1cc16522a01035290deb3b83cddb7444787ec418e3d6/mytv/377/hd.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv2-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/3.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f86bb850-f6ef-4c9d-b0ad-b8fe16ef27e9/catchup/1080p-5M/1080p-5M.m3u8?media=true&start=${start}&stop=${end}",VTV3
-https://code.antmediatv.xyz/getplay/5a1041e9298c0d1e0c3dcb1cc16522a01035290deb3b83cddb7444787ec418e3d6/mytv/211/hd.m3u8
+https://liveh12.vtvcab.vn/hls/VTV3_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/5a1041e9298c0d1e0c3dcb1cc16522a01035290deb3b83cddb7444787ec418e3d6/vieon/vtv4-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/5a1041e9298c0d1e0c3dcb1cc16522a01035290deb3b83cddb7444787ec418e3d6/mytv/379/hd.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 TÂY NAM BỘ
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=http://sctvonline.vn/
@@ -27,7 +27,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://code.antmediatv.xyz/getplay/5a1041e9298c0d1e0c3dcb1cc16522a01035290deb3b83cddb7444787ec418e3d6/tv360/207/2.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/8OcYkcsp14oZn-z-XTwrGg/1698046993/vtv5-tay-nguyen/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
