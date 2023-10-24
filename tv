@@ -1396,19 +1396,6 @@ http://103.166.184.82/cloud/stream/48/index.m3u8?username=khangtv&password=khang
 http://103.166.184.82/cloud/stream/49/index.m3u8?username=khangtv&password=khangtv
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
-https://asia.vthanhtivi.pw/kcine/index.m3u8?token=048b0015df2c65836640acc925dc2c13f83dc547-df109020756200faa41a4c1adadf4d6c-1698124936-1698114136
-#EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
-https://asia.vthanhtivi.pw/klife/index.m3u8?token=18402131d4786fe0fbdd91795f316e23c6971adb-1c3031df3d68a4d7fa09f3885576d032-1698124936-1698114136
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
-https://asia.vthanhtivi.pw/ksport1/index.m3u8?token=a261c4b21d9e6ab64ec4943a2a9b3356e00b528d-3719a1749471aaf88e425fdde0a8a08e-1698124936-1698114136
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
-https://asia.vthanhtivi.pw/ksport2/index.m3u8?token=ebe240b3d05d421ebb91658a88f3106d2b19b294-fe513e7a20e448862b5bf49c5594c35a-1698124936-1698114136
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
-https://asia.vthanhtivi.pw/kkids/index.m3u8?token=a4f4a3f5d1fb6bc22635191bf306fe212fd33d58-f6508cb4d88692029271fc2a3bd715e0-1698124936-1698114136
-
-
-
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
