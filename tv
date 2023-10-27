@@ -192,17 +192,19 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
-http://vthanhtivi.pw:5000/bhits/mpegts
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/cliptv/hollywood-classics-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 https://code.vthanhtivi.pw/getlink/cliptv/ujlKA-giF-dv2qFw1sMxbw/1697089749/man/chunklist_b5128000.m3u8
@@ -368,7 +370,8 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/mytv/69/hd.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
