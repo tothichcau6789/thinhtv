@@ -76,7 +76,7 @@ https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/82307.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab7/dvr-${start}-${offset}.m3u8", VTV Cab 7 ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://rutgonlink.mobi/Khích-TiVi-live.8080-O2vtvcab.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/o2tvvtvcab/83317.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/19.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab8-bibi/dvr-${start}-${offset}.m3u8", VTV Cab 8 ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -92,7 +92,7 @@ https://code.vthanhtivi.pw/getlink/cliptv/_EN1G15Bvf73yDKjEeN7Ng/1698127256/on-c
 
 #EXTINF:-1 tvg-id="vtvcab11hd" group-title="VTVcab" tvg-logo="https://cdn.antmediatv.xyz/22.png",VTVcab 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/9ebebd664521d732e5cc9e449fc1382d0bd15adec25961d36f9f04687902c92930/vieon2/vtvcab11-vgs-shop/playlist.m3u8
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/vieon2/vtvcab11-vgs-shop/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab12-style-tv/dvr-${start}-${offset}.m3u8", VTV Cab 12 ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -124,7 +124,7 @@ https://code.vthanhtivi.pw/getlink/onlive/viedramas/83003.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab20-vfamily/dvr-${start}-${offset}.m3u8", VTV Cab 20 ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon2/vtvcab20-vfamily/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/cliptv/SKQyL-ImmlpGXfloFO6Jrg/1698385815/on-vfamily/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://cdn.antmediatv.xyz/32.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab21-cartoon-kid/dvr-${start}-${offset}.m3u8", VTV Cab 21 ON Kids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -161,7 +161,7 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://rutgonlink.mobi/KhíchTV.live.8080-Happy-Kids-playlist.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
 
 #--*.*--HBO-GO--*.*--#
 
