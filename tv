@@ -27,7 +27,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://code.vthanhtivi.pw/getlink/fptplay/8OcYkcsp14oZn-z-XTwrGg/1698046993/vtv5-tay-nguyen/chunklist_b5000000.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/da1237a97036361419b11e8b6ea7439cd8b998fba5724c7fb679a2a13de6f52dda029c/v5live-channel/chunklist.m3u8?vstv=207
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" group-title="VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
