@@ -100,7 +100,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtvcab12-style-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/24.png", VTVcab 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/9ebebd664521d732e5cc9e449fc1382d0bd15adec25961d36f9f04687902c92930/vieon2/vtvcab13-home-shopping/playlist.m3u8
+https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/vieon2/vtvcab13-home-shopping/playlist.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCAB" tvg-logo="https://cdn.antmediatv.xyz/26.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab15/dvr-${start}-${offset}.m3u8", VTV Cab 15 ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
