@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://raw.githubusercontent.com/tothichcau6789/thinhtv/main/epg.xml,https://code.antmediatv.xyz/epg,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://code.antmediatv.xyz/epg,https://khanggtivi.xyz/schedule/khanggtivi_epg.xml,https://trada.info/epg.xml" tvg-shift=0 m3uautoload=1
 
 #--*.*--VTV--*.*--#
 
@@ -374,7 +374,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
-https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/mytv/69/hd.m3u8
+https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/69/hd.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
@@ -383,7 +383,7 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/197
 
 #EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvlivehd.png" group-title="MTV",MTV LIVE
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3067
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3067
 
 #EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-chno="2550" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="MTV", MTV Spankin' New
 https://i.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
