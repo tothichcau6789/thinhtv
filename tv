@@ -15,7 +15,7 @@ https://liveh12.vtvcab.vn/hls/VTV3_HD/03.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
+https://live2onsport.vtvcab.vn/hls/VTV4_HD/sc-gaFEAA/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🔴| VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=ANTmedia
@@ -27,7 +27,7 @@ https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://drm-livecdn.khanggtivi.xyz/360/da1237a97036361419b11e8b6ea7439cd8b998fba5724c7fb679a2a13de6f52dda029c/v5live-channel/chunklist.m3u8?vstv=207
+http://live.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
