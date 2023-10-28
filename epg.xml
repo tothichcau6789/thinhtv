@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "xmltv.dtd"><tv generator-info-name="www.matthuisman.nz" generated-ts="20231027085620"> 
 
- <channel id="SONYSPORTSTEN1HD">
+ <channel id="sonyten1hd">
       <display-name>Sony TEN 1 HD</display-name>
       <icon src="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png"/>
   </channel>
-  <programme channel="SONYSPORTSTEN1HD" start="20231027085620 +0000" stop="20531028085620 +0000">
+  <programme channel="sonyten1hd" start="20231027085620 +0000" stop="20531028085620 +0000">
       <title>Sony TEN 1 HD</title>
       <desc>Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent.</desc>
   </programme>
-  <channel id="SONYSPORTSTEN2HD">
+  <channel id="sonyten2hd">
       <display-name>Sony TEN 2 HD</display-name>
       <icon src="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png"/>
   </channel>
-  <programme channel="SONYSPORTSTEN2HD" start="20231027085620 +0000" stop="20531028085620 +0000">
+  <programme channel="sonyten2hd" start="20231027085620 +0000" stop="20531028085620 +0000">
       <title>Sony TEN 2 HD</title>
       <desc>Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent.</desc>
   </programme>
-  <channel id="SONYSPORTSTEN3HD">
+  <channel id="sonyten3hd">
       <display-name>Sony TEN 3 HD</display-name>
       <icon src="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png"/>
   </channel>
-  <programme channel="SONYSPORTSTEN3HD" start="20231027085620 +0000" stop="20531028085620 +0000">
+  <programme channel="sonyten3hd" start="20231027085620 +0000" stop="20531028085620 +0000">
       <title>Sony TEN 3 HD</title>
       <desc>Sony Sports Network is owned and operated by Sony Pictures Networks (SPN). With an enviable line-up of marquee sporting action across genres in its portfolio of 10 channels, the sports division of SPN is a leading sports broadcaster in the Indian subcontinent.</desc>
   </programme>
