@@ -193,10 +193,10 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
+https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
-https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/mytv/105/hd.m3u8
+https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/105/hd.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
@@ -210,7 +210,7 @@ https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e2
 https://code.vthanhtivi.pw/getlink/cliptv/ujlKA-giF-dv2qFw1sMxbw/1697089749/man/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hits" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://code.vthanhtivi.pw/getlink/tv360/00WI_SiL-mOiIGQfhyv-7A/1697089749/107/playlist.m3u8
+https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/515/hd.m3u8
 
 #EXTINF:-1 group-title="🎬| HBO-GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TRT-4K.jpg/320px-TRT-4K.jpg",TRT 4K
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
@@ -288,7 +288,7 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/689
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/690
 
 #EXTINF:0 tvg-id="WARNER TV" tvg-name="WARNER TV" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_BROS.png",Warner Bros
-https://live.khanggtivi.xyz/warnertv
+#https://live.khanggtivi.xyz/warnertv
 
 #EXTINF:-1 tvg-id="1206dtv.cl" tvg-name="WARNER TV" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_HD.png" group-title="🎬| HBO-GO",WARNER TV
 #http://103.166.184.82:1234/stream/warnertv/master.m3u8?u=khangtv&p=524b08fc0847fefd0b2031103bc5e7971878380c3788b592c87388d61051c4ec
