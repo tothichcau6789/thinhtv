@@ -397,13 +397,13 @@ https://i.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="2560" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="MTV", MTV Block Party
 https://i.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
 
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="MTV",Sony Ten 1 HD
+#EXTINF:-1 tvg-id="SONYSPORTSTEN1HD" tvg-name="Sony Ten 1 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="MTV",Sony Ten 1 HD
 http://watchindia.net:8880/live/60427/00546/1756.ts
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="MTV",Sony Ten 2 HD
+#EXTINF:-1 tvg-id="SONYSPORTSTEN2HD" tvg-name="Sony Ten 2 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN2HD_Masthead_Logo.png" group-title="MTV",Sony Ten 2 HD
 http://watchindia.net:8880/live/60427/00546/1757.ts
 
-#EXTINF:-1 tvg-id="sonyten3.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="MTV",Sony Ten 3 HD
+#EXTINF:-1 tvg-id="SONYSPORTSTEN3HD" tvg-name="Sony Ten 3 HD" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="MTV",Sony Ten 3 HD
 http://watchindia.net:8880/live/60427/00546/1758.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SONY SPORTS 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646" group-title="MTV",SONY SPORTS 1
