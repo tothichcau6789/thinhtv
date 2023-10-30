@@ -177,6 +177,10 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="starhd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.jpg", STAR CHANNEL FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/836
 
+#EXTINF:-1 tvg-id="starmovies" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="Phim truyện",Star Movies
+#https://live.khanggtivi.xyz/play/198/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
+https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=374
