@@ -96,7 +96,7 @@ https://code.antmediatv.xyz/getplay/b73542a32a7b441a5af0565e0fb3ed4f0c70fbb218b6
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/23.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab12-style-tv/dvr-${start}-${offset}.m3u8", VTV Cab 12 ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.antmediatv.xyz/getplay/b73542a32a7b441a5af0565e0fb3ed4f0c70fbb218b60e33ce1032ab458b47ffce/vieon2/vtvcab12-style-tv/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/onstyle/83808.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/24.png", VTVcab 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -193,10 +193,10 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/cliptv/box-movie-1-hd/chunklist_b5128000.m3u8
+https://live.khanggtivi.xyz/hls_vod/1080p/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/boxmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
-https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/105/hd.m3u8
+https://code.vthanhtivi.pw/getlink/onlive/khanggtivi/83932.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
@@ -204,13 +204,13 @@ http://vthanhtivi.pw:5000/itb/mpegts
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-https://code.antmediatv.xyz/getplay/147b1d76397d3786c38742100c6ae11cf6cfbe6f43e29f1995b79a9445a615dc68/cliptv/hollywood-classics-hd/chunklist_b5128000.m3u8
+https://khanggtivi.xyz/cliptv/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/hollywood-classics-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 https://code.vthanhtivi.pw/getlink/cliptv/ujlKA-giF-dv2qFw1sMxbw/1697089749/man/chunklist_b5128000.m3u8
 
 #EXTINF:-1 tvg-id="hits" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/515/hd.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/v5live-channel/chunklist.m3u8?vstv=107
 
 #EXTINF:-1 group-title="🎬| HBO-GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TRT-4K.jpg/320px-TRT-4K.jpg",TRT 4K
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
@@ -374,7 +374,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
-https://code.antmediatv.xyz/getplay/0161ac3de3c6a7654da213ec26b37a81f1d4e88179fc7ba51c443a49cb0a9cbd09/mytv/69/hd.m3u8
+https://khanggtivi.xyz/cliptv/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/music-box/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
