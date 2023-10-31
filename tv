@@ -11,11 +11,11 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/3.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f86bb850-f6ef-4c9d-b0ad-b8fe16ef27e9/catchup/1080p-5M/1080p-5M.m3u8?media=true&start=${start}&stop=${end}",VTV3
-https://liveh12.vtvcab.vn/hls/VTV3_HD/03.m3u8
+https://hqth.me/VTV3HD
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV4_HD/sc-gaFEAA/m20_index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=108
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🔴| VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=ANTmedia
@@ -35,15 +35,15 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=6
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV8 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=115
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
+https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=8
 
 #--*.*--🧡| VTVcab--*.*--#
 
@@ -177,9 +177,9 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 #EXTINF:-1 tvg-id="starhd" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/logos/starmovies.jpg", STAR CHANNEL FHD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/836
 
-#EXTINF:-1 tvg-id="starmovies" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="Phim truyện",Star Movies
+#EXTINF:-1 tvg-id="starmovies" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="🎬| HBO-GO",Star Movies
 #https://live.khanggtivi.xyz/play/198/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
-https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324
+https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -378,7 +378,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
-https://khanggtivi.xyz/cliptv/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/music-box/playlist.m3u8
+https://khanggtivi.xyz/cliptv/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/music-box/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
