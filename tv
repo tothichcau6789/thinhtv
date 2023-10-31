@@ -10,7 +10,7 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" group-title="🔴| VTV" tvg-logo="http://gg.gg/vtv3logokiptv" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/3.png" tvg-chno="3" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
