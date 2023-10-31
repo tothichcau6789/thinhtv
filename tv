@@ -284,6 +284,18 @@ https://hqth.me/cctv23
 
 #--*.*--HBO-GO--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎬| HBO-GO",Sky Store 1
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165921
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎬| HBO-GO",Sky Store 2
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165922
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎬| HBO-GO",Sky Store 3
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165929
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Store 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="🎬| HBO-GO",Sky Store 4
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/165926
+
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 http://vthanhtivi.pw:5000/hbo/index.m3u8
 
