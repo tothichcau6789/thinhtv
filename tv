@@ -1582,3 +1582,7 @@ https://code.antmediatv.xyz/getplay/7e8c08af03154b23afb6f9dd5d0fee67423327da7a18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://code.antmediatv.xyz/getplay/7e8c08af03154b23afb6f9dd5d0fee67423327da7a187c5f7e3e2ac8baf7804c1d/stream/klive3/master.m3u8
 
+
+
+#EXTINF:-1 tvg-id="SCTV1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/vd6jLtg/SCTV1.png", SCTV1
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
