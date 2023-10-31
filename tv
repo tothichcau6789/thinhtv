@@ -179,7 +179,7 @@ http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/836
 
 #EXTINF:-1 tvg-id="starmovies" tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="🎬| HBO-GO",Star Movies
 #https://live.khanggtivi.xyz/play/198/play_videots.m3u8?deviceid=00:1A:79:33:E9:41
-https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343
+https://khanggtivi.xyz:443/live/StarMovie/ips_live207.m3u8?tid=541815ce35bdd167d2dc4001c2c8f7f8f9323c9abd8f7111c93fa44f706c0955571122
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX---.PNG" group-title="🎬| HBO-GO",Cinemax USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -196,8 +196,12 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 #https://live.khanggtivi.xyz/hls_vod/1080p/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/boxmovie/index.m3u8
+
+#EXTINF:0 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg", Box Movie 1
+#EXTVLCOPT:http-user-agent=ReactnativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://live.khanggtivi.xyz/hls_vod/1080p/541815ce35bdd167d2dc4001c2c8f7f8f9323c9abd8f7111c93fa44f706c0955571122/boxmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
