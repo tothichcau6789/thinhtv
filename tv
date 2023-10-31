@@ -34,17 +34,17 @@ http://live.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
-#EXTINF:0 tvg-id="vtv7hd" group-title="🔴| VTV" tvg-logo="https://i.ibb.co/J7FX52M/vtv7.png"  tvg-chno="7" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8,VTV7 HD
+#EXTINF:-1 tvg-id="vtv7hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd" group-title="🔴| VTV" tvg-logo="https://i.ibb.co/vsQPSYQ/vtv8.png" tvg-chno="8" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="🔴| VTV" tvg-logo="https://i.ibb.co/SV2FccD/vtv9.png" tvg-chno="9" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8",VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
+https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 
 #--*.*--🧡| VTVcab--*.*--#
 
