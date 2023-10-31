@@ -11,7 +11,7 @@ http://live.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/3.png" catchup="append" catchup-days="2" catchup-source="https://live-zlr1.tv360.vn/manifest/f86bb850-f6ef-4c9d-b0ad-b8fe16ef27e9/catchup/1080p-5M/1080p-5M.m3u8?media=true&start=${start}&stop=${end}",VTV3
-https://hqth.me/VTV3HD
+http://live.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vtv4hd" tvg-name="VTV4 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -35,15 +35,15 @@ http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=6
+https://live2onsport.vtvcab.vn/hls/VTV7_HD/sc-gaFEAA/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtv8hd" tvg-name="VTV8 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV8 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=115
+https://live2onsport.vtvcab.vn/hls/VTV8_HD/sc-gaFEAA/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://drm-livecdn.khanggtivi.xyz/360/b297e038be0684b94f6de497e3544cdfe8e70865935ce5fc8038b2ceb6eb9e57173343/v5live-channel/chunklist.m3u8?vstv=8
+https://live2onsport.vtvcab.vn/hls/VTV9_HD/sc-gaFEAA/m20_index.m3u8
 
 #--*.*--🧡| VTVcab--*.*--#
 
