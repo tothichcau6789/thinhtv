@@ -196,8 +196,8 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-https://live.khanggtivi.xyz/hls_vod/1080p/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/boxmovie/index.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#https://live.khanggtivi.xyz/hls_vod/1080p/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/boxmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 https://code.vthanhtivi.pw/getlink/onlive/khanggtivi/83932.m3u8
@@ -207,14 +207,14 @@ http://vthanhtivi.pw:5000/itb/mpegts
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-https://khanggtivi.xyz/cliptv/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/hollywood-classics-hd/playlist.m3u8
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#https://khanggtivi.xyz/cliptv/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/hollywood-classics-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-https://code.vthanhtivi.pw/getlink/cliptv/ujlKA-giF-dv2qFw1sMxbw/1697089749/man/chunklist_b5128000.m3u8
+http://tiemnhazunn.click/tv360/tv360.php?id=237
 
 #EXTINF:-1 tvg-id="hits" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-https://drm-livecdn.khanggtivi.xyz/360/825bb3adef264e6748f2c7141924818d2e73ec1fff5f240c522b475038cf0f80ffd324/v5live-channel/chunklist.m3u8?vstv=107
+https://tiemnhazunn.click/tv360/tv360.php?id=107
 
 #EXTINF:-1 group-title="🎬| HBO-GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TRT-4K.jpg/320px-TRT-4K.jpg",TRT 4K
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
