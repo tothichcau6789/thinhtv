@@ -319,20 +319,18 @@ http://tiemnhazunn.click/daddylivehd/334/index.m3u8
 
 #EXTINF:0 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxmovie1.jpg", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactnativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://live.khanggtivi.xyz/hls_vod/1080p/541815ce35bdd167d2dc4001c2c8f7f8f9323c9abd8f7111c93fa44f706c0955571122/boxmovie/index.m3u8
-https://hqth.me/boxmovie1
+https://live.khanggtivi.xyz/hls_vod/1080p/d14920c171fe6e1d2c9fa02be80846c92fa06c22233047246df861534e9cc575fec07c/boxmovie/index.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://live.khanggtivi.xyz/hls_vod/1080p/541815ce35bdd167d2dc4001c2c8f7f8f9323c9abd8f7111c93fa44f706c0955571122/boxhit/index.m3u8
+https://live.khanggtivi.xyz/hls_vod/1080p/d14920c171fe6e1d2c9fa02be80846c92fa06c22233047246df861534e9cc575fec07c/boxhit/index.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg", In The Box
 http://vthanhtivi.pw:5000/itb/mpegts
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-https://hqth.me/hollywood
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 http://tiemnhazunn.click/tv360/tv360.php?id=237
@@ -502,7 +500,8 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
-https://hqth.me/boxmusic
+https://khanggtivi.xyz/cliptv/d14920c171fe6e1d2c9fa02be80846c92fa06c22233047246df861534e9cc575fec07c/music-box/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="MTV" tvg-logo="http://logo.protv.cc/picons/logos/032mtv.png", MTV HD
 http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/52
