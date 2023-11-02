@@ -158,12 +158,6 @@ https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/onplus/ONGOLFTA/m30_index.m3u8
 
-#EXTINF:-1 tvg-id="happykids" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=KhichTivi
-#EXTVLCOPT:http-user-agent=KhichTivi
-#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-
 
 #--*.*--SCTV--*.*--#
 
@@ -225,7 +219,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV15hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/3kgHfnb/sctv15.png", SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/02.m3u8
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SCTV16hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/FgqbkhL/SCTV16.png", SCTV16
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -429,8 +423,8 @@ https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 http://vthanhtivi.pw:5000/cartoon/index.m3u8
 
-#EXTINF:-1 tvg-id="BabySharkTV.us" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Hoạt hình", Baby Shark TV
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Hoạt hình", Baby Shark TV
+https://i.mjh.nz/PlutoTV/619d5e6a093e7c0007489211-alt.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌈| Hoạt hình", BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
@@ -438,7 +432,7 @@ https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BBC_CBEEBIES.png" group-title="🌈| Hoạt hình", BBC Cbeebies
 #http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
 
-#EXTINF:-1 tvg-id="1317dtv.cl" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
+#EXTINF:-1 tvg-id="babytvhd" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
 http://oaktvpro.club:8080/992879023/B2005CC1/5471
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
