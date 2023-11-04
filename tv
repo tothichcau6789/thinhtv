@@ -1399,25 +1399,31 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons/logos/skysportsarena.png" group-title="SkySport",SKY SPORTS ARENA
-http://watchindia.net:8880/live/60427/00546/2095.ts
+#http://watchindia.net:8880/live/60427/00546/2095.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/267
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport",SKY SPORTS CRICKET
-http://watchindia.net:8880/live/60427/00546/2143.ts
+#http://watchindia.net:8880/live/60427/00546/2143.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/269
 
-#EXTINF:-1 tvg-id="supersportspremierleague" tvg-name="Super Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky sports Premier League
-http://watchindia.net:8880/live/60427/00546/2092.ts
+#EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky sports Premier League
+#http://watchindia.net:8880/live/60427/00546/2092.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/263
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/skysportfootballhd.png" group-title="SkySport",SKY SPORTS FOOTBALL
-http://watchindia.net:8880/live/60427/00546/2093.ts
+#http://watchindia.net:8880/live/60427/00546/2093.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/266
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAINEVENT" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmaineventhd.png" group-title="SkySport",SKY SPORTS MAINEVENT
-http://watchindia.net:8880/live/60427/00546/2091.ts
+#http://watchindia.net:8880/live/60427/00546/2091.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/283053
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons/logos/skysportgolfhd.png" group-title="SkySport",SKY SPORTS GOLF
-http://watchindia.net:8880/live/60427/00546/2096.ts
+#http://watchindia.net:8880/live/60427/00546/2096.ts
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/264
 
 #EXTINF:-1 group-title="SkySport" tvg-logo="http://gg.gg/ssnews1kkk", Sky Sports News
-http://bollox.ie:8080/play/live.php?mac=00:1A:79:4A:6C:36&stream=188782&extension=ts&play_token=rvwAUT83he
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/260
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport",Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -1425,9 +1431,11 @@ http://bollox.ie:8080/play/live.php?mac=00:1A:79:4A:6C:36&stream=188782&extensio
 http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportsmix.png" group-title="SkySport",Sky Sports MIX
+http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/261
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=449
-http://tiemnhazunn.click/daddylivehd/449/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/449/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportbundesliga.png" group-title="SkySport",Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
