@@ -1657,15 +1657,15 @@ https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #--*.*--Kẹo--*.*--#
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/87.png" tvg-logo="https://i.imgur.com/MbwcLsk.jpg", K+SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq6/k+1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/88.png" tvg-logo="https://i.imgur.com/4cwpDe3.jpg", K+SPORT2 HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq7/k+2
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/85.png" tvg-logo="https://i.imgur.com/tcSVkXd.jpg", K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/85.png" tvg-logo=", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq4/k+cine
 
@@ -1673,7 +1673,7 @@ http://is.am/5jq4/k+cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq5/k+action
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/89.png" tvg-logo="https://i.imgur.com/bD895dn.jpg", K+KIDS HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #http://is.am/5jq8/khich-plus/k+kids.m3u8
 http://is.am/5jq8/k+kids
