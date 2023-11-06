@@ -1669,7 +1669,7 @@ http://is.am/5jq7/k+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq4/k+cine
 
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" group-logo="https://khanggtivi.xyz/cdn/86.png" tvg-logo="https://i.ibb.co/QmfJbQ7/2023-10-17-khichplus-action.png", K+ACTION HD
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| Kẹo" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://is.am/5jq5/k+action
 
