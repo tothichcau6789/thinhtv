@@ -1527,10 +1527,6 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/0a8470c6518d1db43bd79721963fdc6f.png" group-title="SkySport",Sky Sport Top Event
 http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297551
 
-#EXTINF:-1 group-title="SkySport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Sky_Sport_Germany_2020.png", Sky Sports Tennis
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://evolved.host:8080/glenndickens595@yahoo.com/0DOCX6wEwb/522206
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons/logos/skysportsarena.png" group-title="SkySport",SKY SPORTS ARENA
 #http://watchindia.net:8880/live/60427/00546/2095.ts
 #http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/267
@@ -1601,8 +1597,6 @@ http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2431
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport", SKY SPORTS RACING
 http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/577968
-
-#http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=133540&extension=ts&play_token=OYE2cWH3ls
 
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
 http://watchindia.net:8880/live/60427/00546/2456.ts
