@@ -1541,7 +1541,7 @@ http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/269
 #EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky sports Premier League
 #http://watchindia.net:8880/live/60427/00546/2092.ts
 #http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/263
-http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/577996
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/178325.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons/logos/skysportfootballhd.png" group-title="SkySport",SKY SPORTS FOOTBALL
 #http://watchindia.net:8880/live/60427/00546/2093.ts
@@ -1576,10 +1576,10 @@ http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/300647
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="SkySport", SKY SPORTS F1
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=133540&extension=ts&play_token=OYE2cWH3ls
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="SkySport",Sky Sports Racing
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="SkySport", Sky Sports Racing
 http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/163132
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport",Sky Sports Action
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport", Sky Sports Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=37
 http://tiemnhazunn.click/daddylivehd/37/index.m3u8
@@ -1587,8 +1587,12 @@ http://tiemnhazunn.click/daddylivehd/37/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="SkySport", SKY SPORTS MIX
 http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/577989
 
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SkySport",Sky Sport Bundesliga
-http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2431
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SkySport", Sky Sport Bundesliga
+#http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/2431
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/181265.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS LALIGA" tvg-logo="http://castlempire.site:8080/images/1b27bb3e847fa9b7befb79d2e48f341e.png" group-title="SkySport", SKY SPORTS LALIGA
+https://castlempire.site:443/23CAMILO004/2gX6jTGw48/222078.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportbundesliga.png" group-title="SkySport",Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
