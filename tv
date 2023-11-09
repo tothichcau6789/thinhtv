@@ -1805,14 +1805,13 @@ http://hoaiptv.duckdns.org:9981/stream/mux/312bb629f05e624fc3e6fc5b664c8df0?
 
 #EXTINF:-1 tvg-id="klive1hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/klive1/master.m3u8
+http://103.166.184.82:1234/stream/klive1?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304086
 
 #EXTINF:-1 tvg-id="klive2hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/klive2/master.m3u8
+http://103.166.184.82:1234/stream/klive2?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304476
 
 #EXTINF:-1 tvg-id="klive3hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/klive3/master.m3u8
-
+http://103.166.184.82:1234/stream/klive3?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304723
 
