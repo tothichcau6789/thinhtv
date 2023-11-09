@@ -1785,23 +1785,23 @@ http://103.166.184.82:1234/stream/klive3/master.m3u8?u=baochau&p=bce092138edfb91
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#http://103.253.17.240/stream/3/index.m3u8?username=vthanh&password=vthanh
+http://hoaiptv.duckdns.org:9981/stream/mux/423c77ee2e626826e68bec596b9f969d?
 
 #EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/kpluslife/master.m3u8
+http://hoaiptv.duckdns.org:9981/stream/mux/a5f7506537ca6866b35fb8d4ca44d25c?
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#http://103.253.17.240/stream/2/index.m3u8?username=vthanh&password=vthanh
+http://hoaiptv.duckdns.org:9981/stream/mux/bd1ef36146e755af54143e949d51203c?Khichtv
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/kplus2/master.m3u8
+http://hoaiptv.duckdns.org:9981/stream/mux/f3111821405d1bf3fc5a42c5f944014d
 
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-#https://code.antmediatv.xyz/getplay/44c53a5f0f7822a5f907429a47afd5acddc341390852817cbb2e8a378bffc10626/stream/kids/master.m3u8
+http://hoaiptv.duckdns.org:9981/stream/mux/312bb629f05e624fc3e6fc5b664c8df0?
 
 #EXTINF:-1 tvg-id="klive1hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
