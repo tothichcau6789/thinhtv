@@ -43,8 +43,9 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv7-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/vtv8-hd/playlist.m3u8
 
 #EXTINF:0 tvg-id="vtv9hd" group-title="🔴| VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/381/hd/dvr-${start}-${offset}.m3u8" ch-number="9",VTV9 HD
-#EXTVLCOPT:http-user-agent=KhanggTivi
-https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8
+
 
 #--*.*--🧡| VTVcab--*.*--#
 
