@@ -444,7 +444,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBC 3" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BBC_CBEEBIES.png" group-title="🌈| Hoạt hình", BBC Cbeebies
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/3002
+http://antm.dynu.net:14285/rtp/232.84.1.90:10398
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
 #http://oaktvpro.club:8080/992879023/B2005CC1/5471
