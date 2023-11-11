@@ -451,8 +451,7 @@ http://antm.dynu.net:14285/rtp/232.84.1.90:10398
 http://dn.badourif.com:80/555c4dfd77/aef7004f1813/577397
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
-https://live.khanggtivi.xyz/hls_vod/1080p/9bf000efd3650f1709b5929401c00ca64a1b19b37e9835eb698fd437c3457a5367c94f/dreamworks/index.m3u8
-
+http://antm.dynu.net:14285/rtp/232.84.3.227:11284
 
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
