@@ -1758,11 +1758,10 @@ http://103.166.184.82:1234/stream/klive2?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de
 http://103.166.184.82:1234/stream/klive3?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304723
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD 
-http://171.244.63.246/Cua-Sport1/mpegts?token=test-CDN
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD
-http://171.244.63.246/Cua-Sport2/mpegts?token=test-CDN
-
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 SD 
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/.ts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 SD
+http://b4tv.live/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/.ts
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
