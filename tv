@@ -443,12 +443,11 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌈| Hoạt hình", BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBC Cbeebies" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BBC_CBEEBIES.png" group-title="🌈| Hoạt hình", BBC Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="BBC" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BBC_CBEEBIES.png" group-title="🌈| Hoạt hình", BBC
 http://antm.dynu.net:14285/rtp/232.84.1.90:10398
 
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
-#http://oaktvpro.club:8080/992879023/B2005CC1/5471
-http://antm.dynu.net:14285/rtp/232.84.2.36:10624
+http://oaktvpro.club:8080/992879023/B2005CC1/5471
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
 http://antm.dynu.net:14285/rtp/232.84.3.227:11284
