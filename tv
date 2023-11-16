@@ -269,6 +269,8 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #--*.*--HBO-GO--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX DRAMA FHD" tvg-logo="https://asiagrandiptv.us/logo//Netflix.png" group-title="🎬| HBO-GO", NETFLIX DRAMA FHD
+http://51015541299659585.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/659585.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX ACTION 2 FHD" tvg-logo="" group-title="🎬| HBO-GO", NETFLIX ACTION 2 FHD
 http://51015541299652206.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/652206.ts
