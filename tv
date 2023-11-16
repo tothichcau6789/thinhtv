@@ -269,6 +269,12 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #--*.*--HBO-GO--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX KIDS FHD" tvg-logo="" group-title="🎬| HBO-GO", NETFLIX KIDS FHD
+http://51015541299671055.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/671055.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX MOVIES FHD" tvg-logo="" group-title="🎬| HBO-GO", NETFLIX MOVIES FHD
+http://51015541299671056.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/671056.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX DRAMA FHD" tvg-logo="https://asiagrandiptv.us/logo//Netflix.png" group-title="🎬| HBO-GO", NETFLIX DRAMA FHD
 http://51015541299659585.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/659585.ts
 
