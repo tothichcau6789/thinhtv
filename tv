@@ -518,6 +518,10 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chun
 
 #--*.*--MTV--*.*--#
 
+
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV FHD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV" group-title="MTV", MTV FHD
+http://51015541299541475.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/541475.ts
+
 #EXTINF:-1 tvg-id="musicbox" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
