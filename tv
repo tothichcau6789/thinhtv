@@ -1721,28 +1721,27 @@ https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5jq6/k+1
+http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=b6507237ded71f813c32ffa158ee7c30519a6dc1-4b43cb4b001f9f41eb09879f5dd1edf3-1700465766-1700454966
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5jq7/k+2
+http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=e0b67fe2ca7805703ce3ca8677c399ff71d38658-5d500a0620c81728555bc503cd11d220-1700465766-1700454966
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5jq4/k+cine
+http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=d3819ef500db6948e7ebd17db8cda7590a518144-43b8bb47305c36e1a10af7ea52abec43-1700465766-1700454966
 
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| Kẹo" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://is.am/5jq5/k+action
+http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=8a354fed3125717f4b75eb92f6bb1220cd723776-a2baf0fc24cf6c3afd1ecd412f3513de-1700465766-1700454966
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#http://is.am/5jq8/khich-plus/k+kids.m3u8
-http://is.am/5jq8/k+kids
+http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=ef489927d6f80185b5a3c2698b1078eb081f57e8-b8693e8a0f4c1bbd18a6787be069569a-1700465766-1700454966
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://103.166.184.82:1234/stream/klive1?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304086
+http://103.179.189.245:1234/stream/klive1?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304086
 #EXTINF:-1 tvg-id="klive2hd" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.166.184.82:1234/stream/klive2?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304476
