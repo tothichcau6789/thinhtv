@@ -1817,7 +1817,7 @@ https://code.antmediatv.xyz/getplay/0543a60efa4515adf8be90fca4a5c5e7570d257e7ae7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://code.antmediatv.xyz/getplay/0543a60efa4515adf8be90fca4a5c5e7570d257e7ae7550c3006d739836ca7b7f4/stream/kplus/kpluslife/master.m3u8
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://code.antmediatv.xyz/getplay/0543a60efa4515adf8be90fca4a5c5e7570d257e7ae7550c3006d739836ca7b7f4/stream/kplus/kplus1/master.m3u8
 
