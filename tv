@@ -1767,6 +1767,17 @@ https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/a1fcadef-fbd0-401f-b3ac-ddbe9bfb3b35/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/playlist_dash.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+#EXTVLCOPT:http-user-agent=KhanggTivi
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+#EXTVLCOPT:http-user-agent=KhanggTivi
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive2/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live2-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
+#EXTVLCOPT:http-user-agent=KhanggTivi
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive3/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live3-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
 #http://103.166.184.82:1234/stream/kpluscine/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
 http://103.179.189.245:1234/stream/kplus/kpluscine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
