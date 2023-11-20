@@ -1775,17 +1775,18 @@ https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/klive3/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live3-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
-http://103.179.189.245:1234/stream/kplus/kpluscine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
-
-#EXTINF:-1 tvg-id="kaction" group-title="K++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
-http://103.179.189.245:1234/stream/kplus/kpluslife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 http://103.179.189.245:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K++" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 http://103.179.189.245:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
+http://103.179.189.245:1234/stream/kplus/kpluscine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+
+#EXTINF:-1 tvg-id="kaction" group-title="K++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
+http://103.179.189.245:1234/stream/kplus/kpluslife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
 http://103.179.189.245:1234/stream/kplus/kids/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
