@@ -1721,23 +1721,23 @@ https://i.mjh.nz/PlutoTV/62d816fcf24d280008762ee9-alt.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=b6507237ded71f813c32ffa158ee7c30519a6dc1-4b43cb4b001f9f41eb09879f5dd1edf3-1700465766-1700454966
+http://cdn.vthanhtivi.pw/K_SPORT1/index.m3u8?token=c91a7377fdb3865106b98a1e540aef4cbdb49598-e6a1b4ab2c2db8ea53d5822fbd7279d8-1700478600-1700467800
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=e0b67fe2ca7805703ce3ca8677c399ff71d38658-5d500a0620c81728555bc503cd11d220-1700465766-1700454966
+http://cdn.vthanhtivi.pw/K_SPORT2/index.m3u8?token=54edb0891b8f5f222e3b61d42426f93a6d41289b-93bc31b7d4eccee4d6b4123dd3bb2097-1700478600-1700467800
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=d3819ef500db6948e7ebd17db8cda7590a518144-43b8bb47305c36e1a10af7ea52abec43-1700465766-1700454966
+http://cdn.vthanhtivi.pw/K_CINE/index.m3u8?token=092a8bb39ec0a4f90d508c58d18a2c557376f11b-677711e699be7273a122c6cb2fc76119-1700478600-1700467800
 
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| Kẹo" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=8a354fed3125717f4b75eb92f6bb1220cd723776-a2baf0fc24cf6c3afd1ecd412f3513de-1700465766-1700454966
+http://cdn.vthanhtivi.pw/K_ACTION/index.m3u8?token=bbed0f305e6b8979234caaa27a688c5c9e931d58-b0689bce314d81e394fcf0f2ec71c0e9-1700478600-1700467800
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" group-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=ef489927d6f80185b5a3c2698b1078eb081f57e8-b8693e8a0f4c1bbd18a6787be069569a-1700465766-1700454966
+http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=cb9ef9253813a2ffa6552cf3683569353c5ac544-2aae675b902d61bcfee5fda80161a81a-1700478600-1700467800
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
