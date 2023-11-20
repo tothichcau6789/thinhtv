@@ -1753,10 +1753,10 @@ http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=ef489927d6f80185b5a3c2698b1078e
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/0e46352c-d095-46a4-9791-83360c4912cc/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/playlist_dash.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
+#EXTINF:-1 tvg-id="kaction" group-title="K+++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/36521fc5-bcdf-48a5-9a0d-38795f7e2cf4/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/playlist_dash.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/kplus1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+sports1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/88.png", K+ SPORT2 HD
