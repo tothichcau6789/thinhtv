@@ -1750,32 +1750,31 @@ http://cdn.vthanhtivi.pw/K_KIDS/index.m3u8?token=ef489927d6f80185b5a3c2698b1078e
 #http://103.166.184.82:1234/stream/klive3?u=khangtv&p=66c5d16e0a5e90cfecb4679c5de1bf4ba5b909ca80b7bcf4025dc5e1caaadff9&AdaptiveType=HLS&VOD_RequestID=/c62406a429b4d7dcf86ed132b7fa8ff47dd63d8c4cb032eb09e1f572c735373733ee89/0BqRzl1VbsZ/VFgXjcv/zfepp7phXfsWGGTaZc6THa3Q9ABui7WiZad2EFW/2Zi2BJIR3Kb5AsDSNmtDHIEmuQcQ5FeE+knYW0hHExE3RuhXp4pCRv2OZUa57hzHdPWP27fBjJK0Xo9h5qzM3njezTy4botyzqBYj1VGdN6qKo6uwqRyXkI7esc/q2yUyTo/&uid=1699304723
 
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/kplus1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+sports1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/0e46352c-d095-46a4-9791-83360c4912cc/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/playlist_dash.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/kplus2/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+sports2-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/36521fc5-bcdf-48a5-9a0d-38795f7e2cf4/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/playlist_dash.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/0e46352c-d095-46a4-9791-83360c4912cc/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/playlist_dash.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION HD
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/kplus1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+sports1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/88.png", K+ SPORT2 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/36521fc5-bcdf-48a5-9a0d-38795f7e2cf4/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/playlist_dash.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+++" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/kplus2/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+sports2-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/89.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/a1fcadef-fbd0-401f-b3ac-ddbe9bfb3b35/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/playlist_dash.m3u8
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/a1fcadef-fbd0-401f-b3ac-ddbe9bfb3b35/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/playlist_dash.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/klive1/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live1-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
 #EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive2/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live2-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/klive2/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live2-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
 #EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 #EXTVLCOPT:http-user-agent=KhanggTivi
-https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/cCQE68fPYamglJw-AEa2YfOFJ0tPfVf7FQl_xCtgnK5NLXQ/1700319028/7TEgSMSUC8GWEegkvJu2cIxS2xw/klive3/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live3-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
-
+https://f56ba39027.vws.khanggtivi.xyz/myk+/amlst:103.179.189.245:1234/providers/q65zI3njaCNjHpgPX8Yvo-G_WZRLhMQO4G52vHPrwcwhn_4/1700319028/xZ8P8r7EVte8uNuXgepEp3pqLhk/klive3/chunklist.m3u8?account=khangtv&check=q2yUyTo&drm-server=nginx.s13.server.khanggtivi.xyz&id-server=config.cgi/k+live3-drm.ini&TL=VN&Local=1&Asia=yes&ip=14.248.80.180&isp=all-resource
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
 #http://103.166.184.82:1234/stream/kpluscine/master.m3u8?u=baochau&p=bce092138edfb91fa29d22891a7f868a714f3e91c00d165738f19f3aa9c39664
