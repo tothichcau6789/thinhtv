@@ -1553,6 +1553,10 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #--*.*--SkySport--*.*--#
 
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT PREMIER LEAGUE FHD" tvg-logo="http://logo.protv.cc/picons/logos/SKY-SPORTS.jpeg" group-title="SkySport", DE: SKY SPORT PREMIER LEAGUE FHD
+http://51015541299444584.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/444584.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport Top Event" tvg-logo="http://s3.i3ns.net/portal/picon/2023-02/0a8470c6518d1db43bd79721963fdc6f.png" group-title="SkySport",Sky Sport Top Event
 http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/297551
 
