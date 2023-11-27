@@ -269,11 +269,6 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 
 #--*.*--HBO-GO--*.*--#
 
-#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX KIDS FHD" tvg-logo="" group-title="🎬| HBO-GO", NETFLIX KIDS FHD
-http://51015541299671055.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/671055.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX MOVIES FHD" tvg-logo="" group-title="🎬| HBO-GO", NETFLIX MOVIES FHD
-http://51015541299671056.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/671056.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: NETFLIX DRAMA FHD" tvg-logo="https://asiagrandiptv.us/logo//Netflix.png" group-title="🎬| HBO-GO", NETFLIX DRAMA FHD
 http://51015541299659585.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/659585.ts
@@ -1162,13 +1157,13 @@ http://tiemnhazunn.click/daddylivehd/33/index.m3u8
 http://tiemnhazunn.click/daddylivehd/34/index.m3u8
 
 #EXTINF:-1 tvg-id="tntsport1" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 1
-#http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tntsport2" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 2
-#http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tntsport3" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 3
-#http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tntsport4" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 4
-#http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png", ARENA SPORTS 3 HD
 http://80.252.37.194:5000/udp/233.233.233.5:12000
@@ -1268,155 +1263,34 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57655.ts
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
 http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=486
-http://tiemnhazunn.click/daddylivehd/486/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=487
-http://tiemnhazunn.click/daddylivehd/487/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=488
-http://tiemnhazunn.click/daddylivehd/488/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=489
-http://tiemnhazunn.click/daddylivehd/489/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-SPORT-POLSKA.png" group-title="⚽️| SPORT",Canal+ Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=490
-http://tiemnhazunn.click/daddylivehd/490/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/novasports1.png" group-title="⚽️| SPORT",Nova Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=631
-http://tiemnhazunn.click/daddylivehd/631/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/novasportshd.png" group-title="⚽️| SPORT",Nova Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=599
-http://tiemnhazunn.click/daddylivehd/599/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/novasportshd.png" group-title="⚽️| SPORT",Nova Sports Start
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=637
-http://tiemnhazunn.click/daddylivehd/637/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/novasportshd.png" group-title="⚽️| SPORT",Nova Sports Prime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=638
-#http://tiemnhazunn.click/daddylivehd/638/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/novasportshd.png" group-title="⚽️| SPORT",Nova Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=639
-http://tiemnhazunn.click/daddylivehd/639/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/prima-sport-new-20226423.jpg" group-title="⚽️| SPORT",Prima Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=583
-#http://tiemnhazunn.click/daddylivehd/583/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/prima-sport-new-20226423.jpg" group-title="⚽️| SPORT",Prima Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=584
-http://tiemnhazunn.click/daddylivehd/584/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/prima-sport-new-20226423.jpg" group-title="⚽️| SPORT",Prima Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=586
-http://tiemnhazunn.click/daddylivehd/586/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/prima-sport-new-20226423.jpg" group-title="⚽️| SPORT",Prima Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=585
-http://tiemnhazunn.click/daddylivehd/585/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="⚽️| SPORT",DAZN 1
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6232
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6232
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
+#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-FORMULA-1.png" group-title="⚽️| SPORT",DAZN F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=537
-http://tiemnhazunn.click/daddylivehd/537/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/537/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="⚽️| SPORT",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=426
-http://tiemnhazunn.click/daddylivehd/426/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/426/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=427
-http://tiemnhazunn.click/daddylivehd/427/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/427/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="⚽️| SPORT",DAZN LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=538
-http://tiemnhazunn.click/daddylivehd/538/index.m3u8
+#http://tiemnhazunn.click/daddylivehd/538/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport1hd.png" group-title="⚽️| SPORT",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=400
 http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport2.png" group-title="⚽️| SPORT",Digi Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=401
-http://tiemnhazunn.click/daddylivehd/401/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport3.png" group-title="⚽️| SPORT",Digi Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=402
-http://tiemnhazunn.click/daddylivehd/402/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="⚽️| SPORT",Digi Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=403
-http://tiemnhazunn.click/daddylivehd/403/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 1+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=71
-http://tiemnhazunn.click/daddylivehd/71/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 2+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=72
-http://tiemnhazunn.click/daddylivehd/72/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORTS-HD.png" group-title="⚽️| SPORT",Eleven Sports 3+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=428
-http://tiemnhazunn.click/daddylivehd/428/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="" group-title="⚽️| SPORT",ELEVEN SPORTS 1+
-http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6215
-
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="" group-title="⚽️| SPORT",ELEVEN SPORTS 2+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=456
-http://tiemnhazunn.click/daddylivehd/456/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="" group-title="⚽️| SPORT",ELEVEN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=457
-http://tiemnhazunn.click/daddylivehd/457/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5" tvg-logo="" group-title="⚽️| SPORT",ELEVEN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=459
-http://tiemnhazunn.click/daddylivehd/459/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="⚽️| SPORT", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
@@ -1431,48 +1305,8 @@ https://nettv.flynet.hu:443/live/eurosport1hd.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=42
 https://nettv.flynet.hu:443/live/eurosport2hd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/MATCH!-FUTBOL-1.png" group-title="⚽️| SPORT",Match Football 1 Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=136
-http://tiemnhazunn.click/daddylivehd/136/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/MATCH!-FUTBOL-2.jpeg" group-title="⚽️| SPORT",Match Football 2 Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=137
-http://tiemnhazunn.click/daddylivehd/137/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/MATCH!-FUTBOL-3.png" group-title="⚽️| SPORT",Match Football 3 Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=138
-http://tiemnhazunn.click/daddylivehd/138/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/MATCH!-PLANETA.png" group-title="⚽️| SPORT",Match Premier Russia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=573
-http://tiemnhazunn.click/daddylivehd/573/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/nbc.png" group-title="⚽️| SPORT",NBC Sports Bay Area
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=753
-http://tiemnhazunn.click/daddylivehd/753/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="orange sport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="⚽️| SPORT",Orange Sport 1
 http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/38647
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="⚽️| SPORT",Orange Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=440
-http://tiemnhazunn.click/daddylivehd/440/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport1.png" group-title="⚽️| SPORT",RMC Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=119
-http://tiemnhazunn.click/daddylivehd/119/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport2.png" group-title="⚽️| SPORT",RMC Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=120
-#http://tiemnhazunn.click/daddylivehd/120/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ViaplaySport1" tvg-logo="http://logo.protv.cc/picons/logos/VIAPLAY-.png" group-title="⚽️| SPORT",ViaPlay Sports 1 FHD
 http://cocopops.xyz:8080/play/live.php?mac=00:1A:79:4a:c0:e0&stream=162549&extension=ts&play_token=IVSS5PbCug
@@ -1550,6 +1384,13 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKiqv.png" group-title="⚽️| SPORT",True Premier Football 2 Thái Lan
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIER-LEAGUE.png" group-title="⚽️| SPORT", CANAL+ Premiere League
+https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327533&is_https=&portal=gauloise.cc&portal_port=80
+
+#EXTINF:-1 tvg-id"Canal+ Top 14" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-TOP-14.png" group-title="⚽️| SPORT", CANAL+ Top14 RugBy
+https://mac-live.angelokh.repl.co/stream/live/mac.m3u8?mac=00:1A:79:2B:51:78&stream_id=327534&is_https=&portal=gauloise.cc&portal_port=80
+
 
 #--*.*--SkySport--*.*--#
 
