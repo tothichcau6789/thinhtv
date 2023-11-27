@@ -1669,13 +1669,13 @@ http://watchindia.net:8880/live/60427/00546/1070.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
 http://watchindia.net:8880/live/60427/00546/1071.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SkySport",SuperSport Grandstand
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SkySport", SUPERSPORT GRANDSTAND HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828110
+http://51015541299678437.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/678437.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com//logo/tv/ss/supersport-psl-za.png" group-title="SkySport",SuperSport PSL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828112
+http://51015541299662071.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662071.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.livematch.ge/img/supersport-rugby.png" group-title="SkySport",SuperSport Rugby
@@ -1689,7 +1689,7 @@ http://51015541299676930.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676930.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-CRICKET.png" group-title="SkySport",SuperSport Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828106
+http://51015541299668112.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/668112.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_action.png" group-title="SkySport", SUPERSPORTS ACTION HD
 #http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828119
@@ -1713,7 +1713,7 @@ http://51015541299644784.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/644784.ts
 http://51015541299666216.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/666216.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS BLITZ HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_blitz.png" group-title="SkySport", SUPERSPORTS BLITZ HD
-http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828113
+http://51015541299677929.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/677929.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT MAXIMO 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SkySport", SUPERSPORT MAXIMO 1 HD
 http://51015541299676931.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/676931.ts
