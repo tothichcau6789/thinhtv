@@ -1814,34 +1814,34 @@ http://103.179.189.245:1234/stream/kplus/klive3/master.m3u8?u=khangtv&p=b011bf56
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/kcine/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/kcine/master.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/kaction/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/kaction/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/ksport1/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/ksport1/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/ksport2/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/ksport2/master.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/kkids/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/kkids/master.m3u8
 
 #EXTINF:-1 tvg-id="klive1hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/klive1/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/klive1/master.m3u8
 
 #EXTINF:-1 tvg-id="klive2hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/klive2/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/klive2/master.m3u8
 
 #EXTINF:-1 tvg-id="klive3hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/2ffa8801f3404915dc41cbad3dbc730e02b3470fe68e76cca04357445769ad89b0/stream/klive3/master.m3u8
+https://code.antmediatv.xyz/getplay/eaf78a7c9c10d985f65b2b402182e1d87d95c7e44c711f7e1758d3de4e096171b4/stream/klive3/master.m3u8
 
 
