@@ -1629,29 +1629,29 @@ http://stream.khanggtivi.xyz/klive3/index.m3u8?token=bd300e789bc3b22df3af6e25d44
 
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.179.189.245:1234/stream/kplus/kplus1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+http://103.171.93.40:1936/live/ksport1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K++" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.179.189.245:1234/stream/kplus/kplus2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+http://103.171.93.40:1936/live/ksport2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
-http://103.179.189.245:1234/stream/kplus/kpluscine/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+http://103.171.93.40:1936/live/kcinehd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="K++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
-http://103.179.189.245:1234/stream/kplus/kpluslife/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#http://103.171.93.40:1936/live/kactionhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
-http://103.179.189.245:1234/stream/kplus/kids/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#http://103.179.189.245:1234/stream/kplus/kids/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
-http://103.179.189.245:1234/stream/kplus/klive1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#http://103.179.189.245:1234/stream/kplus/klive1/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="klive2hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
-http://103.179.189.245:1234/stream/kplus/klive2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#http://103.179.189.245:1234/stream/kplus/klive2/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="klive3hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
-http://103.179.189.245:1234/stream/kplus/klive3/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
+#http://103.179.189.245:1234/stream/kplus/klive3/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
