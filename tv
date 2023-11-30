@@ -1562,19 +1562,19 @@ http://103.57.222.197:8080/kaction/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.57.222.197:8080/kkids
 
-#EXTINF:-1 tvg-id="ksktt1" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 1
+#EXTINF:-1 tvg-id="ksktt1" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.57.222.197:8080/sktt1
-#EXTINF:-1 tvg-id="ksktt2" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 2
+#EXTINF:-1 tvg-id="ksktt2" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.57.222.197:8080/sktt2
-#EXTINF:-1 tvg-id="ksktt3" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 3
+#EXTINF:-1 tvg-id="ksktt3" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.57.222.197:8080/sktt3
-#EXTINF:-1 tvg-id="ksktt4" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 4
+#EXTINF:-1 tvg-id="ksktt4" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.57.222.197:8080/sktt4
-#EXTINF:-1 tvg-id="ksktt5" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 5
+#EXTINF:-1 tvg-id="ksktt5" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://103.57.222.197:8080/sktt5
 
