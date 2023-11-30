@@ -1604,13 +1604,13 @@ http://stream.khanggtivi.xyz/kaction/index.m3u8?token=18a156ac41ad098488f2afb95d
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/kkids/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
-#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+#EXTINF:-1 tvg-id="klive1" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/klive1/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
-#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+#EXTINF:-1 tvg-id="klive2" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/klive2/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
-#EXTINF:-1 tvg-id="" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
+#EXTINF:-1 tvg-id="klive3" group-title="K+++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/klive3/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
