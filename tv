@@ -1659,15 +1659,15 @@ https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/kkids/master.m3u8
 
-#EXTINF:-1 tvg-id="klive1hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
+#EXTINF:-1 tvg-id="klive1" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/klive1/master.m3u8
 
-#EXTINF:-1 tvg-id="klive2hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
+#EXTINF:-1 tvg-id="klive2" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/klive2/master.m3u8
 
-#EXTINF:-1 tvg-id="klive3hd" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
+#EXTINF:-1 tvg-id="klive3" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/klive3/master.m3u8
 
