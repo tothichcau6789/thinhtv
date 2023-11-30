@@ -1599,7 +1599,7 @@ http://stream.khanggtivi.xyz/live/loveyou/ksports1_vhls.smil/index.m3u8?token=18
 http://stream.khanggtivi.xyz/live/loveyou/ksports2_vhls.smil/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+++" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/85.png", K+ CINE HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-http://stream.khanggtivi.xyz/kcine_mytv/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
+http://stream.khanggtivi.xyz/live/kcine_stream.smil/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 #EXTINF:-1 tvg-id="kaction" group-title="K+++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/live/loveyou/kaction_vhls.smil/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
