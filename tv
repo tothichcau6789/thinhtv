@@ -1583,13 +1583,13 @@ http://cdn.vthanhtivi.pw/SKTT5/index.m3u8
 
 #EXTINF:-1 tvg-id="klive1" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://103.57.222.197:8080/klive1
+http://cdn.vthanhtivi.pw/K_LIVE1/index.m3u8
 #EXTINF:-1 tvg-id="klive2" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+LIVE2 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://103.57.222.197:8080/klive2
+http://cdn.vthanhtivi.pw/K_LIVE2/index.m3u8
 #EXTINF:-1 tvg-id="klive3" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+LIVE3 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://103.57.222.197:8080/klive3
+http://cdn.vthanhtivi.pw/K_LIVE3/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://f56ba39027.vws.khanggtivi.xyz/logo/thumbs/87.png", K+ SPORT1 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
