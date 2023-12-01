@@ -1632,13 +1632,13 @@ http://1.53.228.133:1935/live/kactionhd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
 http://103.57.222.197:8080/kkids
 
-#EXTINF:-1 tvg-id="klive1hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
+#EXTINF:-1 tvg-id="klive1" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+ LIVE 1
 http://103.57.222.197:8080/klive1
 
-#EXTINF:-1 tvg-id="klive2hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
+#EXTINF:-1 tvg-id="klive2" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/043_K_LIVE2_landscape.jpg", K+ LIVE 2
 http://103.57.222.197:8080/klive2
 
-#EXTINF:-1 tvg-id="klive3hd" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
+#EXTINF:-1 tvg-id="klive3" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/044_K_LIVE3_landscape.jpg", K+ LIVE 3
 http://103.57.222.197:8080/klive3
 
 #EXTINF:-1 tvg-id="ksktt1" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 1
