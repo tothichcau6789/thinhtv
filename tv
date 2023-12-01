@@ -1619,17 +1619,17 @@ http://stream.khanggtivi.xyz/klive2/index.m3u8?token=18a156ac41ad098488f2afb95d8
 #EXTVLCOPT:http-user-agent=KhanggTivi
 http://stream.khanggtivi.xyz/klive3/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+SPORT1 HD
-http://103.171.93.40:1936/live/ksport1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K++" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 HD - MyTV
+http://stream.khanggtivi.xyz/ksport1_mytv/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K++" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+SPORT2 HD
-http://103.171.93.40:1936/live/ksport2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K++" group-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 HD - MyTV
+http://stream.khanggtivi.xyz/ksport2_mytv/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD
-http://103.171.93.40:1936/live/kcinehd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kcinehd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE HD - MyTV
+http://stream.khanggtivi.xyz/kcine_mytv/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
-#EXTINF:-1 tvg-id="kaction" group-title="K++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION HD
-http://103.171.93.40:1936/live/kactionhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K++" tvg-logo="https://khanggtivi.xyz/cdn/86.png", K+ ACTION - MyTV
+http://stream.khanggtivi.xyz/kaction_mytv/index.m3u8?token=18a156ac41ad098488f2afb95d86bcf0ac900e7a-0ea9c7e1018c049c0a823baeea9164c1-1701310794-1701299994
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K++" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS HD
 #http://103.179.189.245:1234/stream/kplus/kids/master.m3u8?u=khangtv&p=b011bf56fdc43f46c076538b3c1118133439a93951d6881a6545e56c8a66084c
