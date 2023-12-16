@@ -91,6 +91,8 @@ http://fengqiang.press:8188/udp/239.49.8.33:8000
 http://fengqiang.press:8188/udp/239.49.8.119:8000
 #EXTINF:-1,tvg-id="CETV1HD" tvg-name="CETV1HD" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="地方",CETV1HD
 http://fengqiang.press:8188/udp/239.49.8.115:8000
+#EXTINF:-1,tvg-id="CETV2HD" tvg-name="CETV2HD" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="地方",CETV2HD
+http://fengqiang.press:8188/udp/239.49.1.55:6000
 #EXTINF:-1,tvg-id="CETV4HD" tvg-name="CETV4HD" tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="地方",CETV4HD
 http://fengqiang.press:8188/udp/239.49.0.125:8000
 #EXTINF:-1,tvg-id="精彩推荐高清" tvg-name="精彩推荐高清" tvg-logo="https://epg.112114.xyz/logo/精彩推荐.png" group-title="地方",精彩推荐高清
