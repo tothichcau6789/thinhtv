@@ -1658,7 +1658,7 @@ http://api.4gsieutoc.online/myk/myk.php?id=klive3
 
 #EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/kaction/master.m3u8
+#https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/kaction/master.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
