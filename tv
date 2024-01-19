@@ -1136,26 +1136,6 @@ https://nettv.flynet.hu:443/live/tlc.m3u8
 
 #--*.*--SPORT--*.*--#
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=31
-http://tiemnhazunn.click/daddylivehd/31/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=32
-http://tiemnhazunn.click/daddylivehd/32/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=33
-http://tiemnhazunn.click/daddylivehd/33/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp" group-title="⚽️| SPORT",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=34
-http://tiemnhazunn.click/daddylivehd/34/index.m3u8
-
 #EXTINF:-1 tvg-id="tntsport1" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 1
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tntsport2" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 2
@@ -1165,20 +1145,32 @@ http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="tntsport4" group-title="⚽️| SPORT" tvg-logo="https://logowik.com/content/uploads/images/tnt-sports-20213514.logowik.com.webp", TNT Sports 4
 http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png", ARENA SPORTS 3 HD
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-1.png" group-title="⚽️| SPORT",Arena Sport 1 HD
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-2.png" group-title="⚽️| SPORT",Arena Sport 2 HD
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+
+#EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png",Arena Sport 3 HD
 http://80.252.37.194:5000/udp/233.233.233.5:12000
 
-#EXTINF:-1 tvg-id="arenasport4" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport4-drukahehip.png", ARENA 4
-#https://nettv.flynet.hu:443/live/arena4hd.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport4-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 4 HD
+http://80.252.37.194:5000/udp/233.233.233.6:12000
 
-#EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png", ARENA SPORTS 3
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport5-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 5 HD
+http://80.252.37.194:5000/udp/233.233.233.7:12000
 
-#EXTINF:-1 tvg-id="arenasport4" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport4-drukahehip.png", ARENA SPORTS 4
-http://93.155.227.38:90/m3u8/arenasport4.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport6-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 6 HD
+http://80.252.37.194:5000/udp/233.233.233.8:12000
 
-#EXTINF:-1 tvg-id="arenasport5" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport5-drukahehip.png", ARENA SPORTS 5
-http://93.155.227.38:90/m3u8/arenasport5.m3u8
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORT-1-POLSKA.png" group-title="⚽️| SPORT", ELEVEN SPORT 1 HD
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORT-2-POLSKA.png" group-title="⚽️| SPORT", ELEVEN SPORT 1 HD
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2517/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORT-3-POLSKA.png" group-title="⚽️| SPORT", ELEVEN SPORT 3 HD
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2533/index.m3u8
 
 #EXTINF:-1 tvg-id="maxsport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/maxsport1.png", MAX SPORTS 1
 http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
@@ -1201,8 +1193,12 @@ http://185.188.188.235/live/novasport2/playlist.m3u8
 #EXTINF:-1 tvg-id="novasport3" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Nova_Sport_3.svg/revision/latest?cb=20210823172845", NOVA SPORT 3
 http://185.188.188.235/live/novasport3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="setantasport1" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Setanta_Sports_1_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230804042515", SETANTA SPORT 1
-http://vdbrt.kazaktelekom.com/iptv/UU7ZK4DPLXPR2P/5069/index.m3u8
+#EXTINF:-1 tvg-id="setantasport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/setantasports1.png", SETANTA SPORT 1
+#http://vdbrt.kazaktelekom.com/iptv/UU7ZK4DPLXPR2P/5069/index.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2467/index.m3u8
+
+#EXTINF:-1 tvg-id="setantasport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/Setanta_Sports.png", SETANTA SPORT 3
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2209/index.m3u8
 
 #EXTINF:-1 tvg-id="edge" group-title="⚽️| SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg", EDGE Sport
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
@@ -1269,28 +1265,50 @@ http://ip152.ip-51-68-210.eu/get/qOOPcx5eyJ/xyvFVOtG9D/channel/57656.ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
 #http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-FORMULA-1.png" group-title="⚽️| SPORT",DAZN F1
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://tiemnhazunn.click/daddylivehd/537/index.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2531/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="⚽️| SPORT",DAZN 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://tiemnhazunn.click/daddylivehd/426/index.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2532/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://tiemnhazunn.click/daddylivehd/427/index.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2534/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="⚽️| SPORT",DAZN LaLiga
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#http://tiemnhazunn.click/daddylivehd/538/index.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2535/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport1hd.png" group-title="⚽️| SPORT",Digi Sport 1
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=400
-http://kleineinzeige.com:8080/live/Ciprian-Petrea1/EV7P2jur/38531.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2536/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/digisport4.png" group-title="⚽️| SPORT",Digi Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2538/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsport.png" group-title="⚽️| SPORT",POLSAT SPORT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7296/index.m3u8
+
+EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatgames.png" group-title="⚽️| SPORT",POLSAT GAMES
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7295/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportpremium2.png" group-title="⚽️| SPORT",POLSAT SPORT PREMIUM 2
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7305/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsport.png" group-title="⚽️| SPORT",POLSAT SPORT PREMIUM 1
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7306/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsport.png" group-title="⚽️| SPORT",POLSAT SPORT PREMIUM 2
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7307/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportextra.png" group-title="⚽️| SPORT",POLSAT SPORT EXTRA
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7310/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/polsatsportfighthd.png" group-title="⚽️| SPORT",POLSAT SPORT FIGHT
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7311/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png" group-title="⚽️| SPORT", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
@@ -1298,12 +1316,12 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/021eurosport.png" group-title="⚽️| SPORT", EuroSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=41
-https://nettv.flynet.hu:443/live/eurosport1hd.m3u8
+#https://nettv.flynet.hu:443/live/eurosport1hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/022eurosport2.png" group-title="⚽️| SPORT", EuroSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=42
-https://nettv.flynet.hu:443/live/eurosport2hd.m3u8
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7203/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="orange sport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Orange_Sport_-_Logo.png" group-title="⚽️| SPORT",Orange Sport 1
 http://safe.avivainsur.com:8080/Cinta_Gheorghe/a2x2DSg2Gg4m/38647
@@ -1386,7 +1404,8 @@ http://51015541299662327.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662327.ts
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7338/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport",SKY SPORTS CRICKET
-http://51015541299275774.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/275774.ts
+#http://51015541299275774.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/275774.ts
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7343/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky sports Premier League
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7335/index.m3u8
@@ -1405,7 +1424,8 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7337/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY SPORTS GOLF
-http://51015541299257174.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257174.ts
+#http://51015541299257174.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257174.ts
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7344/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="SkySport", SKY SPORTS NEWS HD
 http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
@@ -1413,7 +1433,8 @@ http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NFL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="SkySport", SKY SPORTS NFL
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports News" tvg-logo="" group-title="SkySport",Sky Sports News DE
-http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/300647
+#http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/300647
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2477/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="SkySport", SKY SPORTS F1
 http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=133540&extension=ts&play_token=OYE2cWH3ls
@@ -1446,9 +1467,11 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7339/index.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",Star Sports Select 1 HD
 #http://watchindia.net:8880/live/60427/00546/1070.ts
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2508/index.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",Star Sports Select 2 HD
 #http://watchindia.net:8880/live/60427/00546/1071.ts
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",STAR SPORTS SELECT 1
 #http://watchindia.net:8880/live/60427/00546/1070.ts
