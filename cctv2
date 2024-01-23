@@ -44,7 +44,8 @@ http://fengqiang.press:8188/udp/239.49.0.109:8000
 
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://221.226.8.138:9527/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#http://221.226.8.138:9527/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.4.10:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
