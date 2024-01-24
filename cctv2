@@ -20,9 +20,11 @@ http://183.94.1.118:8801/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.eu.org/logo/CCTV8.png" group-title="央视IPV4",CCTV8
 http://183.94.1.118:8801/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.eu.org/logo/CCTV9.png" group-title="央视IPV4",CCTV9
-http://183.94.1.118:8801/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#http://183.94.1.118:8801/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.eu.org/logo/CCTV10.png" group-title="央视IPV4",CCTV10
-http://183.94.1.118:8801/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#http://183.94.1.118:8801/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.eu.org/logo/CCTV11.png" group-title="央视IPV4",CCTV11
 http://183.94.1.118:8801/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.eu.org/logo/CCTV12.png" group-title="央视IPV4",CCTV12
@@ -30,7 +32,8 @@ http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.eu.org/logo/CCTV13.png" group-title="央视IPV4",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.eu.org/logo/CCTV14.png" group-title="央视IPV4",CCTV14
-http://183.94.1.118:8801/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#http://183.94.1.118:8801/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.eu.org/logo/CCTV15.png" group-title="央视IPV4",CCTV15
 http://183.94.1.118:8801/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16
