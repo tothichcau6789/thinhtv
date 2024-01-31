@@ -37,8 +37,7 @@ http://fengqiang.press:8188/udp/239.49.0.128:8000
 #http://fengqiang.press:8188/udp/239.49.8.31:8000
 http://218.3.138.25:9901/tsfile/live/1015_1.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.eu.org/logo/CCTV17.png" group-title="央视IPV4",CCTV17
-#http://fengqiang.press:8188/udp/239.49.8.52:9810
-http://202.168.187.208:2024/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://fengqiang.press:8188/udp/239.49.8.52:9810
 #EXTINF:-1,tvg-id="CCTV164K" tvg-name="CCTV164K" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4k
 http://fengqiang.press:8188/udp/239.49.0.109:8000
 
