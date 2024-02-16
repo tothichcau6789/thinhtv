@@ -50,7 +50,7 @@ http://fengqiang.press:8188/udp/239.49.0.128:8000
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视IPV4",CCTV16
 #http://fengqiang.press:8188/udp/239.49.8.31:8000
 #http://218.3.138.25:9901/tsfile/live/1015_1.m3u8
-http://str1.cvtv.xyz:8000/CCTV16?token=live
+http://str2.cvtv.xyz:8000/CCTV16?token=live
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视IPV4",CCTV17
 #http://fengqiang.press:8188/udp/239.49.8.52:9810
 http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
