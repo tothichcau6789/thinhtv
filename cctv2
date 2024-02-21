@@ -71,8 +71,9 @@ http://mtw.so/5Uqsk9
 #http://fengqiang.press:8188/udp/239.49.8.52:9810
 #http://39.136.18.230:80/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
 http://mtw.so/61WFoQ
-#EXTINF:-1,tvg-id="CCTV164K" tvg-name="CCTV164K" tvg-logo="https://epg.112114.eu.org/logo/CCTV16.png" group-title="央视IPV4",CCTV16-4k
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视IPV4",CCTV4k
 #http://fengqiang.press:8188/udp/239.49.0.109:8000
+http://mtw.so/69sSrV
 
 
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
