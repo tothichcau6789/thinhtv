@@ -1259,6 +1259,59 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 
 #--*.*--SkySport--*.*--#
 
+#EXTINF:-1 group-title="SkySport", Sky Sports calcio
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168537&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports calcio
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168536&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports tennis
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168535&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports arena
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168534&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports NBA
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168533&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports golf
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168532&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports golf
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168546&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Eurosport 2
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168530&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports 24
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168541&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky Sports uno
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168540&extension=ts&play_token=JPbhJ98kom
+
+#EXTINF:-1 group-title="SkySport", Sky Sports premier league
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163960&extension=ts&play_token=waLxJFq8yU
+#EXTINF:-1 group-title="SkySport", Sky Sports main
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163951&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports action
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163952&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports arena
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163953&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports cricket
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163954&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports f1
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163955&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports news
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163959&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports mix
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163958&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports golf
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163957&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports FOOTBALL
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163956&extension=ts&play_token=CvpT2mFr7S
+#EXTINF:-1 group-title="SkySport", Sky Sports Main Event
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
+#EXTINF:-1 group-title="SkySport", Sky sport f1
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168539&extension=ts&play_token=JPbhJ98kom
+#EXTINF:-1 group-title="SkySport", Sky sport moto
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168538&extension=ts&play_token=JPbhJ98kom
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="SkySport", SKY SPORT HD
 https://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport1.png" group-title="SkySport", SKY SPORT 1 HD
