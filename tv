@@ -326,6 +326,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 http://s4.nihontv.net:21585/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
 http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1392070323?profile=pass
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
