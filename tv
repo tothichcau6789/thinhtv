@@ -69,7 +69,7 @@ https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC9/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
 https://1236573804.pop.vnptcdn.com/VTC10/playlist.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+#EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 https://1236573804.pop.vnptcdn.com/VTC11/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
 https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
@@ -207,7 +207,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2528
 http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/htv9/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
