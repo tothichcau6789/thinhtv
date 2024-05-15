@@ -36,7 +36,7 @@ http://171.238.181.52:18080/308.m3u8
 
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🔴| VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8" ch-number="7", VTV7 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
-http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8
+https://hqth.me/jhACT3
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🔴| VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv8hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/380/hd/dvr-${start}-${offset}.m3u8", VTV8 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
