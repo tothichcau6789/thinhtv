@@ -87,8 +87,8 @@ https://tth.vn/vtvcab1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://tth.vn/vtvcab2
 
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", VTV Cab 3 ON Sports HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onsport
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", VTV Cab 4 ON Movies
@@ -99,8 +99,8 @@ https://tth.vn/vtvcab4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tth.vn/vtvcab5
 
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/17.png", VTV Cab 6 ON Sports+
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onsportplus
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/18.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vtvcab7/dvr-${start}-${offset}.m3u8", VTV Cab 7 ON O2TV
@@ -136,8 +136,8 @@ https://tth.vn/vtvcab12
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://tth.vn/vtvcab15
 
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/27.png", VTV Cab 16 ON Football HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", ON Football HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tth.vn/onfootball
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab17-yeah1-tv/dvr-${start}-${offset}.m3u8", VTV Cab 17 ON Trending TV
@@ -145,9 +145,9 @@ https://tth.vn/onfootball
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab17/index.m3u8
 https://code.vthanhtivi.pw/getlink/onlive/ontrending/81707.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", VTV Cab 18 ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tth.vn/onsportplus
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/onsportnews
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -866,22 +866,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-1.png" group-title="⚽️| SPORT",Arena Sport 1 HD
-http://80.252.37.194:5000/udp/233.233.233.3:12000
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ARENA-SPORT-2.png" group-title="⚽️| SPORT",Arena Sport 2 HD
-http://80.252.37.194:5000/udp/233.233.233.4:12000
 
 #EXTINF:-1 tvg-id="arenasport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/arenasport3-drukahehip.png",Arena Sport 3 HD
-http://80.252.37.194:5000/udp/233.233.233.5:12000
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport4-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 4 HD
-http://80.252.37.194:5000/udp/233.233.233.6:12000
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport5-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 5 HD
-http://80.252.37.194:5000/udp/233.233.233.7:12000
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/arenasport6-drukahehip.png" group-title="⚽️| SPORT",Arena Sport 6 HD
-http://80.252.37.194:5000/udp/233.233.233.8:12000
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/ELEVEN-SPORT-1-POLSKA.png" group-title="⚽️| SPORT", ELEVEN SPORT 1 HD
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2518/index.m3u8
