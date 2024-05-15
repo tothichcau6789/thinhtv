@@ -333,7 +333,9 @@ http://210.210.155.35/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
+https://tth.vn/boxmovie1hd
+
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -344,7 +346,8 @@ https://tth.vn/intheboxhd
 
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+#https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
+https://tth.vn/Hollywood
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 #http://tiemnhazunn.click/tv360/tv360.php?id=237
