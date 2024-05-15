@@ -55,13 +55,13 @@ https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
 https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc4hd"group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
 https://1236573804.pop.vnptcdn.com/VTC4/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc5hd"group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
 https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc6hd"group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
 https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc7hd"group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
 https://1236573804.pop.vnptcdn.com/VTC7/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc8" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
 https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
@@ -69,7 +69,7 @@ https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
 https://1236573804.pop.vnptcdn.com/VTC9/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
 https://1236573804.pop.vnptcdn.com/VTC10/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc11"group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
 https://1236573804.pop.vnptcdn.com/VTC11/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
 https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
