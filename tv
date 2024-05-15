@@ -18,7 +18,7 @@ http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1942408909?pr
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://s4.nihontv.net:21585/vtv4/index.m3u8
 
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🔴| VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=ANTmedia
 http://171.238.181.52:18080/194.m3u8
 
