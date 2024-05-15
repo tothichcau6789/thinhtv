@@ -356,6 +356,10 @@ https://tth.vn/Hollywood
 #EXTINF:-1 tvg-id="man" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 #http://tiemnhazunn.click/tv360/tv360.php?id=237
 
+#EXTINF:-1 tvg-id="manhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tth.vn/manhd
+
 #EXTINF:-1 tvg-id="hits" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
 #https://tiemnhazunn.click/tv360/tv360.php?id=107
 
