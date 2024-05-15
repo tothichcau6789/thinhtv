@@ -16,23 +16,23 @@ http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1942408909?pr
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="🔴| VTV" tvg-logo="https://i.ibb.co/gdPTLB0/vtv4.png" tvg-chno="4" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV4 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://antm.dynu.net:14285/rtp/232.84.3.106:10600
+http://s4.nihontv.net:21585/vtv4/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🔴| VTV" tvg-logo="https://cdn.antmediatv.xyz/5.png" , VTV5 HD
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+http://171.238.181.52:18080/194.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🔴| VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 TÂY NAM BỘ
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=http://sctvonline.vn/
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+http://171.238.181.52:18080/307.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #EXTVLCOPT:http-user-agent=VThanhTivi
-http://live.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
+http://171.238.181.52:18080/308.m3u8
 
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6 FHD" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png" group-title="🔴| VTV" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://antm.dynu.net:14285/rtp/232.84.1.119:10266
+#http://antm.dynu.net:14285/rtp/232.84.1.119:10266
 
 #EXTINF:0 tvg-id="vtv7hd" group-title="🔴| VTV" tvg-logo="https://khanggne.github.io/logo/vtv/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/459/hd/dvr-${start}-${offset}.m3u8" ch-number="7",VTV7 HD
 #EXTVLCOPT:http-user-agent=KhanggTivi
@@ -591,7 +591,7 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
-https://cloudstreamqh.tek4tv.vn/live/HN1_1080p.m3u8
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
