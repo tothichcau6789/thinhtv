@@ -326,16 +326,15 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 http://s4.nihontv.net:21585/hbo/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-#http://vthanhtivi.pw:5000/cinemax/index.m3u8
+http://hodam:87654321@hothanhdam.dsmynas.com:9981/stream/channelid/1392070323?profile=pass
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://210.210.155.35/dr9445/h/h04/01.m3u8
+#http://210.210.155.35/dr9445/h/h04/01.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
 https://tth.vn/boxmovie1hd
-
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| HBO-GO" tvg-logo="https://khanggne.github.io/logo/boxhits.jpg", Box Hits
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
