@@ -1094,56 +1094,74 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7203/index.m3u8
 
 #--*.*--SkySport--*.*--#
 
-#EXTINF:-1 group-title="SkySport", Sky Sports calcio
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168537&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports calcio
+#EXTINF:-1 tvg-id="SkySportscalcio.uk" tvg-name="SKY SPORTS CALCIO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportcalcio.png" group-title="SkySport", Sky Sports calcio 1
+#http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168537&extension=ts&play_token=JPbhJ98kom
+
+#EXTINF:-1 tvg-id="SkySportscalcio.uk" tvg-name="SKY SPORTS CALCIO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportcalcio.png" group-title="SkySport", Sky Sports calcio
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168536&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports tennis
+
+#EXTINF:-1 tvg-id="Sky Sports tennis" tvg-name="SKY SPORTS TENNIS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysporttennis.png" group-title="SkySport", Sky Sports tennis
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168535&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports arena
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="SkySport", Sky Sport Arena 1
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168534&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports NBA
+
+#EXTINF:-1 tvg-id="Sky Sports Nba" tvg-name="SKY SPORTS NBA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportnba.png" group-title="SkySport", Sky Sports Nba
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168533&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports golf
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY Sport Golf 1
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168532&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports golf
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY Sport Golf 2
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168546&extension=ts&play_token=JPbhJ98kom
+
 #EXTINF:-1 group-title="SkySport", Eurosport 2
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168530&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports 24
+
+#EXTINF:-1 tvg-id="Sky Sports 24" tvg-name="SKY SPORTS 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport24.png" group-title="SkySport", Sky Sports 24
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168541&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky Sports uno
+
+#EXTINF:-1 tvg-id="Sky Sports uno" tvg-name="SKY SPORTS UNO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyunohd.png" group-title="SkySport", Sky Sports uno
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168540&extension=ts&play_token=JPbhJ98kom
 
-#EXTINF:-1 group-title="SkySport", Sky Sports premier league
+#EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky Sports Premier League
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163960&extension=ts&play_token=waLxJFq8yU
-#EXTINF:-1 group-title="SkySport", Sky Sports main
+
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="SkySport", Sky Sport Main Events
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163951&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports action
+
+#EXTINF:-1 tvg-id="SkySportsActie.uk" tvg-logo="http://logo.protv.cc/picons/logos/skysportactive-phibruspel.png" group-title="SkySport", Sky Sports Action
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163952&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports arena
+
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="SkySport", Sky Sport Arena
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163953&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports cricket
+
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport", Sky Sport Cricket
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163954&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports f1
+
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="SkySport", SKY Sport F1
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163955&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports news
+
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="SkySport", SKY Sport News
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163959&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports mix
+
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="SkySport", SKY Sport Mix
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163958&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports golf
+
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY Sport Golf
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163957&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports FOOTBALL
+
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="SkySport", SKY Sport Football
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163956&extension=ts&play_token=CvpT2mFr7S
-#EXTINF:-1 group-title="SkySport", Sky Sports Main Event
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=84&extension=ts&play_token=waLxJFq8yU
-#EXTINF:-1 group-title="SkySport", Sky sport f1
-http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168539&extension=ts&play_token=JPbhJ98kom
-#EXTINF:-1 group-title="SkySport", Sky sport moto
+
+#EXTINF:-1 tvg-id="SkySportsMoto.uk" tvg-name="SKY SPORTS MOTO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportmotogp.png" group-title="SkySport", SKY Sport Moto
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168538&extension=ts&play_token=JPbhJ98kom
 
+#EXTINF:-1 group-title="SkySport", Sky Sports Main Event
+https://7pal.short.gy/SkSpMainE
 
-
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="SkySport", SKY Sport F11
+http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168539&extension=ts&play_token=JPbhJ98kom
 
 
 
@@ -1168,24 +1186,10 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1.png" group-title="SkySport", DE: SKY SPORT F1 FHD
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnews.png" group-title="SkySport", DE SKY SPORT NEWS FHD
-#http://51015541299662337.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662337.ts
-#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT SERIE A HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportcalcio.png" group-title="SkySport", DE: SKY SPORT SERIE A HD
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT BUNDESLIGA 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportbundesliga1.png" group-title="SkySport",DE SKY SPORT BUNDESLIGA 1 FHD
-#http://51015541299662327.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/662327.ts
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT TENNIS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysporttennis.png" group-title="SkySport", DE: SKY SPORT TENNIS HD
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolf.png" group-title="SkySport", DE: SKY SPORT GOLF HD
-#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT MOTOGP FHD" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport", DE: SKY SPORT MOTOGP FHD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons/logos/skysportsarena.png" group-title="SkySport",SKY SPORTS ARENA
-
 #EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="SkySport", SKY SPORTS ARENA
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7338/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons/logos/skysportscrickethd.png" group-title="SkySport",SKY SPORTS CRICKET
-#http://51015541299275774.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/275774.ts
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7343/index.m3u8
 
 #EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky sports Premier League
@@ -1201,24 +1205,19 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7337/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="SkySport", SKY SPORTS MAIN EVENTS
-#http://51015541299341402.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/341402.ts
 
 
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY SPORTS GOLF
-#http://51015541299257174.of1030ok.xyz:80/play/vi78530/GE7g6kdhb9k/257174.ts
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7344/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="SkySport", SKY SPORTS NEWS HD
-#http://ipgurl.xyz:80/live/Globe/qxi0sjvYJs!@/9398.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NFL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="SkySport", SKY SPORTS NFL
 
 #EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sports News" tvg-logo="" group-title="SkySport",Sky Sports News DE
-#http://iptvtree.net:8080/fungoldiptv/PwrPmA9fvj4KhrrJ/300647
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2477/index.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="SkySport", SKY SPORTS F1
-#http://mytvde.xyz:8080/play/live.php?mac=00:1A:79:05:D7:EC&stream=133540&extension=ts&play_token=OYE2cWH3ls
 
 #EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="SkySport", Sky Sports Racing
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7341/index.m3u8
@@ -1229,6 +1228,7 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="SkySport", SKY SPORTS MIX
 #http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/7339/index.m3u8
+
 #EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="DE: Sky Sport Bundesliga" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbe531ca1d3128a5ea1d826026c1c967.png" group-title="SkySport", Sky Sport Bundesliga
 
 
@@ -1241,24 +1241,22 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport", SKY SPORTS RACING
 
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
-#http://watchindia.net:8880/live/60427/00546/2456.ts
-
-#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_2_HD.png" group-title="SkySport",Star Sports 2 HD
-#http://watchindia.net:8880/live/60427/00546/1069.ts
-
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",Star Sports Select 1 HD
-#http://watchindia.net:8880/live/60427/00546/1070.ts
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2508/index.m3u8
 
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_2_HD.png" group-title="SkySport",Star Sports 2 HD
+
+
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",Star Sports Select 1 HD
+
+
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",Star Sports Select 2 HD
-#http://watchindia.net:8880/live/60427/00546/1071.ts
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",STAR SPORTS SELECT 1
-#http://watchindia.net:8880/live/60427/00546/1070.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
-#http://watchindia.net:8880/live/60427/00546/1071.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SkySport", SUPERSPORT GRANDSTAND HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
@@ -1278,7 +1276,7 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS ACTION HD" tvg-logo="http://logo.protv.cc/picons/logos/UK/SUPERSPORT_action.png" group-title="SkySport", SUPERSPORTS ACTION HD
-#http://line.dino.ws:80/cojjhpsehw/ykr2zwlcod/828119
+
 
 #EXTINF:-1 tvg-id="" tvg-name="ZA SUPERSPORT VARIETY 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SkySport", SUPERSPORT VARIETY 2 HD
 
@@ -1297,8 +1295,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZA: SUPERSPORT MAXIMO 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SkySport", SUPERSPORT MAXIMO 1 HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="SkySport", SuperSport Tennis
-
-
 
 #EXTINF:-1 channel-id="pluto-62d816fcf24d280008762ee9" tvg-id="62d816fcf24d280008762ee9" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png" tvg-chno="800" group-title="SkySport" , La Liga Premier | Paramount+
 
