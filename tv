@@ -835,23 +835,19 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #--*.*--Khám phá--*.*--#
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
-#http://vthanhtivi.pw:5000/animal/index.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
-#http://vthanhtivi.pw:5000/bbcearth/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 http://s4.nihontv.net:21585/discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#https://code.vthanhtivi.pw/getlink/tvfree/discovery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="lovenature" group-title="🌿| Khám phá" tvg-logo="https://static.wirtualnemedia.pl/media/top/Love-Nature-4K-2021.jpg", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-#http://vthanhtivi.pw:5000/history/index.m3u8
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 
@@ -869,31 +865,22 @@ http://s4.nihontv.net:21585/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#https://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
-#https://code.vthanhtivi.pw/getlink/tv360/RnK1xkBJH6x7q8vVFAK7xA/1697089749/215/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://aeci.s3.eu-west-2.amazonaws.com/s3fs-public/default_images/ciuk.jpg", CRIME+INVESTIGATION
-#https://code.vthanhtivi.pw/getlink/eazie/242127/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://images.squarespace-cdn.com/content/v1/54b32958e4b08972957c461b/1615504400122-FLJAAPMSITVB96CD2Y06/image-asset.png?format=1500w", GEM
-#https://code.vthanhtivi.pw/getlink/eazie/242918/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE
-#https://code.vthanhtivi.pw/getlink/eazie/243114/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-#https://code.vthanhtivi.pw/getlink/tv360/NdYBG3JGhDccosQ4_F1fKA/1697089749/99/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
-#https://code.vthanhtivi.pw/getlink/fptplay/kix/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="blueantent" group-title="🤣| Giải trí" tvg-logo="https://thumbor.prod.vidiocdn.com/--Y__FYsuwKLJ6nNO22iqu3Upwo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8120/rock-entertainment-756300.jpg", Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="🤣| Giải trí" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64ef4338bc214f77a5db6ce9_Rock-Action_web_image.jpg", Rock Action
-http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -935,25 +922,18 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2517/index.m3u8
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2533/index.m3u8
 
 #EXTINF:-1 tvg-id="maxsport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/maxsport1.png", MAX SPORTS 1
-http://93.155.227.38:90/m3u8/webmtelsport_web.m3u8
 
 #EXTINF:-1 tvg-id="maxsport2" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/maxsport2.png", MAX SPORTS 2
-http://93.155.227.38:90/m3u8/webmtelsport2_web.m3u8
 
 #EXTINF:-1 tvg-id="maxsport3" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/maxsport3.png", MAX SPORTS 3
-http://93.155.227.38:90/m3u8/webmtelsport3_web.m3u8
 
 #EXTINF:-1 tvg-id="maxsport4" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Max_Sport_logo.svg/revision/latest?cb=20201221123055", MAX SPORTS 4
-http://93.155.227.38:90/m3u8/webmtelsport4_web.m3u8
 
 #EXTINF:-1 tvg-id="novasport1" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Nova_Sport_1_HD.jpg/revision/latest?", NOVA SPORT 1
-http://185.188.188.235/live/novasport1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="novasport2" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Nova_Sport_2_HD.jpg/revision/latest?cb=20180810045233", NOVA SPORT 2
-http://185.188.188.235/live/novasport2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="novasport3" group-title="⚽️| SPORT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Nova_Sport_3.svg/revision/latest?cb=20210823172845", NOVA SPORT 3
-http://185.188.188.235/live/novasport3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="setantasport1" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/setantasports1.png", SETANTA SPORT 1
 #http://vdbrt.kazaktelekom.com/iptv/UU7ZK4DPLXPR2P/5069/index.m3u8
@@ -963,7 +943,6 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2467/index.m3u8
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2209/index.m3u8
 
 #EXTINF:-1 tvg-id="edge" group-title="⚽️| SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_des_TV-Senders_EdgeSport_HD.jpg", EDGE Sport
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="https://1000logos.net/wp-content/uploads/2017/01/espn-symbol.jpg", ESPN
 http://143.244.60.30/ESPN/index.m3u8
@@ -982,10 +961,8 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="espn" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/espnextra.png", ESPN EXTRA FHD
 
 #EXTINF:-1 tvg-id="foxsport" group-title="⚽️| SPORT" tvg-logo="http://logo.protv.cc/picons/logos/foxsports2.png", FOX SPORTS 2 FHD
-http://joao-1-us.mainbkonline.shop:80/0ey85arr/ao1z1ayd/773
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/10/60/28/-channel!3d1.png" group-title="⚽️| SPORT" group-logo="https://cdn.antmediatv.xyz/group/KIPTV.png", Маtch TV
-http://194.143.148.28/MatchHD/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/10/60/28/-channel!3d1.png" group-title="⚽️| SPORT", Маtch 4 TV
 
@@ -1011,10 +988,8 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/premiumtv/daddylivehd.php?id=126
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn1.png" group-title="⚽️| SPORT",DAZN 1
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6232
 
 #EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2 DE" tvg-logo="http://logo.protv.cc/picons/logos/dazn2.png" group-title="⚽️| SPORT",DAZN 2
-#http://line.quantumtv.xyz:80/gbdwaKw2/hx13q9r/6233
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="⚽️| SPORT",DAZN ELEVEN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
