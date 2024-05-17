@@ -632,7 +632,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", THĐT1 HD | TH Đồng Tháp
 #http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+https://tth.vn/thdt
 
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/137.png", THĐT2 HD | TH Đồng Tháp
 #http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
