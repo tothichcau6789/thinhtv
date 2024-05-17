@@ -1213,23 +1213,18 @@ https://donelfantastic.github.io/live/skysportsNz9.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportbundesliga.png" group-title="SkySport",Sky Sport Bundesliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; SM-A035F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons/logos/skysportmotogp.png" group-title="SkySport", SKY SPORTS RACING
 
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_1_HD.png" group-title="SkySport",Star Sports 1 HD
-http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2508/index.m3u8
-
 #EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_2_HD.png" group-title="SkySport",Star Sports 2 HD
 
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",Star Sports Select 1 HD
-
+http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2508/index.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",Star Sports Select 2 HD
 http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_1_HD.png" group-title="SkySport",STAR SPORTS SELECT 1
-
-
 #EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://watchindia.net/images/channels/sports/Start_Sports_Select_2_HD.png" group-title="SkySport",STAR SPORTS SELECT 2
 
 
