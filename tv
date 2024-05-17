@@ -1099,7 +1099,7 @@ http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=16854
 #EXTINF:-1 tvg-id="Sky Sports uno" tvg-name="SKY SPORTS UNO" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyunohd.png" group-title="SkySport", Sky Sports uno
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168540&extension=ts&play_token=JPbhJ98kom
 
-#EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="SkySport", Sky Sports Premier League
+#EXTINF:-1 tvg-id="skysportspremierleague" tvg-name="Sky Sports Premier League" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysppl.png" group-title="SkySport", Sky Sports Premier League
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:40:0C:9A&stream=163960&extension=ts&play_token=waLxJFq8yU
 
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="SKY SPORTS MAIN EVENTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="SkySport", Sky Sport Main Events
