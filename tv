@@ -1090,7 +1090,7 @@ http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=16853
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="SkySport", SKY Sport Golf 2
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168546&extension=ts&play_token=JPbhJ98kom
 
-#EXTINF:-1 group-title="SkySport", Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.protv.cc/picons-dino/logos/022eurosport2.png" group-title="SkySport", Eurosport 2
 http://friedbatter.gotdns.ch:80/play/live.php?mac=00:1A:79:48:56:01&stream=168530&extension=ts&play_token=JPbhJ98kom
 
 #EXTINF:-1 tvg-id="Sky Sports 24" tvg-name="SKY SPORTS 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport24.png" group-title="SkySport", Sky Sports 24
