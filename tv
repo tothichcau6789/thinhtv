@@ -2,7 +2,7 @@
 
 #--*.*--VTV--*.*--#
 
-#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="🔴| VTV tvg-logo="https://cdn.hqth.me/logo/1.png", VTV1 HD
+#EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1 HD" group-title="🔴| VTV" tvg-logo="https://cdn.hqth.me/logo/1.png", VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://171.238.181.52:18080/154.m3u8
 
