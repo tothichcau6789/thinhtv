@@ -245,7 +245,7 @@ http://nas.mfparking.com:4022/udp/233.50.201.138:5140
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="地方频道",浙江经济生活
 http://nas.mfparking.com:4022/udp/233.50.201.133:5140
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="地方频道",浙江钱江频道
-
+http://nas.mfparking.com:4022/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-name="陕西一套" tvg-logo="https://live.fanmingming.com/tv/陕西新闻资讯.png" group-title="地方频道",陕西新闻资讯
 
 #EXTINF:-1 tvg-name="陕西二套" tvg-logo="https://live.fanmingming.com/tv/陕西都市青春.png" group-title="地方频道",陕西都市青春
