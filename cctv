@@ -304,14 +304,27 @@ http://nas.mfparking.com:4022/udp/233.50.201.132:5140
 
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
 
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+#EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
+http://nas.mfparking.com:4022/udp/233.50.201.173:5140
+#EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
+http://nas.mfparking.com:4022/udp/233.50.201.174:5140
+#EXTINF:-1 tvg-id="46" tvg-name="杭州3生活" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州3生活
+http://nas.mfparking.com:4022/udp/233.50.201.175:5140
+#EXTINF:-1 tvg-id="47" tvg-name="杭州4影视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州4影视
+http://nas.mfparking.com:4022/udp/233.50.201.176:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州5青少" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州5青少
+http://nas.mfparking.com:4022/udp/233.50.201.177:5140
+#EXTINF:-1 tvg-id="48" tvg-name="杭州导视" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州导视
+http://nas.mfparking.com:4022/rtp/233.50.201.182:5140
 
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
-
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
-
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
-
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV1" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV1
+http://nas.mfparking.com:4022/udp/233.50.201.168:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV2" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV2
+http://nas.mfparking.com:4022/udp/233.50.201.178:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV3" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV3
+http://nas.mfparking.com:4022/udp/233.50.201.179:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV4" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV4
+http://nas.mfparking.com:4022/udp/233.50.201.180:5140 
+#EXTINF:-1 tvg-id="49" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV5
+http://nas.mfparking.com:4022/udp/233.50.201.181:5140 
