@@ -329,7 +329,3 @@ http://nas.mfparking.com:4022/udp/233.50.201.180:5140
 #EXTINF:-1 tvg-id="49" tvg-name="宁波TV5" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",宁波TV5
 http://nas.mfparking.com:4022/udp/233.50.201.181:5140 
 
-#EXTINF:-1 tvg-id="60" tvg-name="睛彩竞技" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="其他频道",睛彩竞技
-http://nas.mfparking.com:4022/udp/233.50.201.193:5140
-#EXTINF:-1 tvg-id="60" tvg-name="睛彩篮球" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="其他频道",睛彩篮球
-http://nas.mfparking.com:4022/udp/233.50.201.194:5140
