@@ -684,7 +684,7 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png", HY HD | TH Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phươngg" tvg-logo="http://cdn.hqth.me/logo/thumbs/150.png", KTV HD | Truyền Hình Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/150.png", KTV HD | Truyền Hình Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wintv.fun/360/65/index.m3u8
 
