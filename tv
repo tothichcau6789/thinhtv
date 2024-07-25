@@ -567,7 +567,7 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", BLTV HD | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 
-#EXTINF:-1 tvg-id="bentre" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/113.png", THBT HD | Truyền Hình Bến Tre
+#EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/113.png", THBT HD | Truyền Hình Bến Tre
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/bentre/index.m3u8
 
@@ -589,11 +589,11 @@ http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://api.wintv.me/360/151/index.m3u8
 
-#EXTINF:-1 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/115.png", BTV1 HD | Truyền Hình Bình Dương
+#EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/115.png", BTV1 HD | Truyền Hình Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/binhduong1/index.m3u8
 
-#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/116.png", BTV2 HD | Truyền Hình Bình Dương
+#EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/116.png", BTV2 HD | Truyền Hình Bình Dương
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/binhduong2/index.m3u8
 
@@ -647,7 +647,7 @@ http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 #http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="gialai" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/138.png", THGL HD | Truyền Hình Gia Lai
+#EXTINF:-1 tvg-id="gialai" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/138.png", THGL HD | Truyền Hình Gia Lai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wintv.fun/360/55/index.m3u8
 
@@ -684,7 +684,7 @@ https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png", HY HD | TH Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="khanhhoa" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/150.png", KTV HD | Truyền Hình Khánh Hòa
+#EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phươngg" tvg-logo="http://cdn.hqth.me/logo/thumbs/150.png", KTV HD | Truyền Hình Khánh Hòa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wintv.fun/360/65/index.m3u8
 
@@ -728,7 +728,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/162.png", NTV HD | TH Ninh Thuận
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/163.png", PTV HD | TH Phú Thọ
+#EXTINF:-1 tvg-id="phutho" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/163.png", PTV HD | TH Phú Thọ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/360/77/index.m3u8
 
@@ -764,7 +764,7 @@ https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:-1 tvg-id="sonla" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/173.png", STV HD | TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tayninh" group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/174.png", TTV 11 | Truyền Hình Tây Ninh
+#EXTINF:-1 tvg-id="tayninh" group-title="🇻🇳| Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/174.png", TTV 11 | Truyền Hình Tây Ninh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://118.68.178.1:4000/udp/225.1.1.130:30120
 
@@ -778,7 +778,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/178.png", TTV HD | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 
-#EXTINF:-1 tvg-id="hue" group-title="Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", TRT | Truyền Hình Thừa Thiên Huế (1080p)
+#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/179.png", TRT | Truyền Hình Thừa Thiên Huế (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://wintv.fun/360/63/index.m3u8
 
