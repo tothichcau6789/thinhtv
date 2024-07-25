@@ -279,7 +279,11 @@ https://api.wintv.me/dulich/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/vd6jLtg/SCTV1.png", SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+#https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/vd6jLtg/SCTV1.png", SCTV1
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8?
+
 
 #EXTINF:0 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/hZmsGHL/SCTV2.png" , SCTV2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
