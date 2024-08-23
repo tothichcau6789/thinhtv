@@ -53,6 +53,23 @@ http://omnix.cn:4000/udp/225.1.8.17:8144
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://omnix.cn:4000/udp/225.1.8.21:8002
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="卫视频道",北京文艺
+http://omnix.cn:4000/udp/225.1.8.22:8002
+#EXTINF:-1 tvg-name="北京科教" tvg-logo="https://live.fanmingming.com/tv/北京科教.png" group-title="卫视频道",北京科教
+http://omnix.cn:4000/udp/225.1.8.105:8002
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="卫视频道",北京影视
+http://omnix.cn:4000/udp/225.1.8.82:8000
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="卫视频道",北京财经
+http://omnix.cn:4000/udp/225.1.8.106:8002
+#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.com/tv/北京冬奥纪实.png" group-title="卫视频道",北京冬奥纪实
+http://omnix.cn:4000/udp/225.1.8.23:8002
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="卫视频道",北京生活
+http://omnix.cn:4000/udp/225.1.8.108:8002
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="卫视频道",北京新闻
+http://omnix.cn:4000/udp/225.1.8.83:8000
+#EXTINF:-1 tvg-name="北京卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/北京卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+http://omnix.cn:4000/udp/225.1.8.35:8000
+
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://nas.mfparking.com:4022/udp/233.50.201.103:5140
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
