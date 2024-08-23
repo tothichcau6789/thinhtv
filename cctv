@@ -296,6 +296,20 @@ http://omnix.cn:4000/udp/225.1.8.165:9136
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
 
 
+#EXTINF:-1 tvg-name="北京IPTV淘精彩" tvg-logo="" group-title="IPTV",北京IPTV淘精彩
+http://omnix.cn:4000/udp/225.1.8.33:8002
+#EXTINF:-1 tvg-name="北京IPTV淘BABY" tvg-logo="" group-title="IPTV",北京IPTV淘BABY
+http://omnix.cn:4000/udp/225.1.8.36:8002
+#EXTINF:-1 tvg-name="北京IPTV淘剧场" tvg-logo="" group-title="IPTV",北京IPTV淘剧场
+http://omnix.cn:4000/udp/225.1.8.37:8002
+#EXTINF:-1 tvg-name="北京IPTV淘电影" tvg-logo="" group-title="IPTV",北京IPTV淘电影
+http://omnix.cn:4000/udp/225.1.8.38:8002
+#EXTINF:-1 tvg-name="北京IPTV淘娱乐" tvg-logo="" group-title="IPTV",北京IPTV淘娱乐
+http://omnix.cn:4000/udp/225.1.8.61:8002
+#EXTINF:-1, tvg-name="北京IPTV萌宠TV" tvg-logo="" group-title="IPTV",北京IPTV萌宠TV
+http://omnix.cn:4000/udp/225.1.8.63:8002
+
+
 #EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
 http://nas.mfparking.com:4022/udp/233.50.201.173:5140
 #EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
