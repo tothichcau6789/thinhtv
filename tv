@@ -1301,9 +1301,9 @@ http://e14921eb.amazzin.pw/iptv/3WHBXNFDU9YG7Q/2507/index.m3u8
 #--*.*--Kẹo--*.*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyK+
-#http://is.am/5mf7/khichtivi/k+3/index.m3u8
+http://is.am/5mf7/khichtivi/k+3/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyK+
-#http://is.am/5mf8/khichtivi/k+4/index.m3u8
+http://is.am/5mf8/khichtivi/k+4/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
 
