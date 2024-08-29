@@ -164,7 +164,7 @@ https://iptv.stcwl.xyz/udp/239.11.0.62:1025
 https://iptv.stcwl.xyz/udp/239.11.0.59:1025
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
 https://iptv.stcwl.xyz/udp/239.11.0.58:1025
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="地方频道",重庆汽摩
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://live.fanmingming.com/tv/汽摩.png" group-title="卫视频道",重庆汽摩
 https://iptv.stcwl.xyz/udp/239.10.0.232:1025
 
 
