@@ -9,7 +9,7 @@ http://op.sev7.net:4022/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
 http://op.sev7.net:4022/rtp/239.254.200.190:6307
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://op.sev7.net:4022/rtp/239.254.200.14:6000
+http://op.sev7.net:4022/rtp/239.254.201.153:7206
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://op.sev7.net:4022/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
