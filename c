@@ -144,7 +144,7 @@ http://op.sev7.net:4022/rtp/239.254.201.182:7227
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视频道",纪实人文
 http://op.sev7.net:4022/rtp/239.254.200.58:8060
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="卫视频道",生活时尚
-
+http://op.sev7.net:4022/rtp/239.254.201.166:6359
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="卫视频道",乐游频道
 http://op.sev7.net:4022/rtp/239.254.201.200:6356
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="卫视频道",都市剧场
