@@ -175,7 +175,7 @@ http://op.sev7.net:4022/rtp/239.254.201.165:6358
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="卫视频道",哒啵赛事
 
 #EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://live.fanmingming.com/tv/家庭理财.png" group-title="卫视频道",家庭理财
-
+http://op.sev7.net:4022/rtp/239.254.201.188:6366
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="卫视频道",财富天下
 
 #EXTINF:-1 tvg-name="弈坛春秋" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png" group-title="卫视频道",弈坛春秋
