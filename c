@@ -181,7 +181,7 @@ http://op.sev7.net:4022/rtp/239.254.201.201:7269
 #EXTINF:-1 tvg-name="弈坛春秋" tvg-logo="https://live.fanmingming.com/tv/弈坛春秋.png" group-title="卫视频道",弈坛春秋
 
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.com/tv/老故事.png" group-title="卫视频道",老故事
-
+http://op.sev7.net:4022/rtp/239.254.200.104:6237
 #EXTINF:-1 tvg-name="置业" tvg-logo="https://live.fanmingming.com/tv/置业频道.png" group-title="卫视频道",置业频道
 
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视频道",中国天气
