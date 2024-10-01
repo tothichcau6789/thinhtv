@@ -379,6 +379,19 @@ http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=
 #EXTINF:-1 group-title="💓咪咕直播",咪咕直播45
 http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
+#EXTINF:-1,NEWTV动作电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
+#EXTINF:-1,NEWTV惊悚悬疑
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3
+#EXTINF:-1,NEWTV超级电视剧
+http://gslbservzqhsw.itv.cmvideo.cn/1000000006000268003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268003&livemode=1&stbId=3
+#EXTINF:-1,NEWTV超级电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000003000012426/1.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+#EXTINF:-1,NEWTV黑莓电影
+http://gslbservzqhsw.itv.cmvideo.cn/1000000004000019624/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+
+
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="杭州1综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州1综合
 #EXTINF:-1 tvg-id="45" tvg-name="杭州2明珠" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方高清",杭州2明珠
