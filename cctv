@@ -260,3 +260,65 @@ http://182.92.109.190:1668/migu720/migu720.php?id=cctv5p
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="CCTV",CCTV4美洲
 http://182.92.109.190:1668/migu720/migu720.php?id=cctv4a
+
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播1
+http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播2
+http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播3
+http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播4
+http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播5
+http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播6
+http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播7
+http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播8
+http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播10
+http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播11
+http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播12
+http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播13
+http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播15
+http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播16
+http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播17
+http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播19
+http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播21
+http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播24
+http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播25
+http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播27
+http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播28
+http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播33
+http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播34
+http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播35
+http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播36
+http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播43
+http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播44
+http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播47
+http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播51
+http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕视频.png" group-title="咪咕",咪咕直播52
+http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
