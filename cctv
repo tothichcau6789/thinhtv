@@ -122,7 +122,7 @@ http://cqshushu.us.kg:2086/gitv.php?id=G_HUNAN-CQ
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
 http://cqshushu.us.kg:2086/gitv.php?id=G_DONGFANG-CQ
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
-
+http://cqshushu.us.kg:2086/gitv.php?id=G_SICHUAN-CQ
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
 http://cqshushu.us.kg:2086/gitv.php?id=G_TIANJIN-CQ
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
