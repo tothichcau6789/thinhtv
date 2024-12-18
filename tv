@@ -627,11 +627,11 @@ https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/master.m
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e8.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8%7CReferer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e8.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8%7CReferer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
