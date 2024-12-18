@@ -748,7 +748,7 @@ https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/141.png", HanoiTV1 HD
 #https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
-https://cloudcdnvod.tek4tv.vn/live/hanoi1_abr.m3u8
+https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/vstv521/33/index.m3u8
 
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/142.png", HanoiTV2 HD
 #https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
