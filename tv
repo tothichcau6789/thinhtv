@@ -139,7 +139,7 @@ https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/182/i
 
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", VTVCab6 ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/vtvcab6.smil/index.m3u8
+https://akaviettel.sgchill.io.vn/live/manifest/uid:vmttv/khichtivilamotconcho/play/vtvcab/vtvcab6.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", VTVCab7 On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
