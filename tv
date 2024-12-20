@@ -166,6 +166,7 @@ https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/184/i
 
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/24.png", VTVcab 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", VTVCab15 On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -203,27 +204,11 @@ https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/188/i
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", VTVCab23 ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Golf
+https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/256.png", BTV5 - ON Sports Action
 #https://liveh34.vtvcab.vn/hls/ACTION/01.m3u8
 https://liveh12.vtvcab.vn/hls/ONBTV5/04.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/37.png", ON Sports ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/onplus/ONSPORTTA/m20_index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/38.png", ON Football ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/onplus/ONFOOTBALLTA/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/39.png", ON Sports News ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/onplus/ONSPORTNEWSTA/m30_index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/40.png", ON Golf ENG
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.antmediatv.xyz/getplay/7e87cf4e3bfccab22fa892f4af086a99867468ed9807a17ac9b7bea262a10fb39a/onplus/ONGOLFTA/m30_index.m3u8
 
 #----------*-HTV&HTVC-*----------#
 
@@ -446,12 +431,12 @@ https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="drfithd" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://oipf0znpmnliv.vcdn.cloud/hls/drfit/index.m3u8
-https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
+#https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="woman" group-title="MTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://oipf0znpmnliv.vcdn.cloud/hls/woman/index.m3u8
-https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+#https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
 
 #--*.*--Hoạt hình--*.*--#
 
@@ -466,7 +451,7 @@ https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #http://s4.nihontv.net:21585/cartoon/index.m3u8
@@ -539,24 +524,18 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #--*.*--HCATV--*.*--#
 
-
 #EXTINF:-1 group-title="🇻🇳| HCATV"tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/19/17/1713523056731/15dcd31a84c7_640_360.png",TV360 Cửu Long
 
 #EXTINF:-1 group-title="🇻🇳| HCATV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/12/23/1712939067757/dee2e3c7891b_640_360.png",TV360 Đồng bào 
 
 #EXTINF:-1 group-title="🇻🇳| HCATV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/12/23/1712939276302/5f22d679657d_640_360.png",TV360 CINE
 
-
-
 #EXTINF:-1 group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", HCATV6 - Phim Dở (Today Plus)
-
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV
 
-
 #EXTINF:-1 tvg-id="youtv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
-
 
 #--*.*--Địa phương--*.*--#
 
@@ -849,22 +828,21 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon/dw-hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon2/france-24-english/playlist.m3u8
+https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
+https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHK World
 #https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://code.vthanhtivi.pw/getlink/vieon/tv5-monde-asie/playlist.m3u8
 
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="tv5mon.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
 #KODIPROP:inputstream=inputstream.adaptive
@@ -880,8 +858,8 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://s4.nihontv.net:21585/discovery/index.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/davincihd/KenhCoBan",DaVinci HD
+https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -890,9 +868,10 @@ http://s4.nihontv.net:21585/discovery/index.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
-
+https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="national-geographic-group" group-title="🌿| Khám phá" tvg-logo="https://cdn.antmediatv.xyz/ngw.png" , Nat Geo Wild
 
@@ -901,9 +880,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://logo.protv.cc/picons/logos/tlc.png" group-title="🌿| Khám phá",TLC
 
 #--*.*--Giải trí--*.*--#
-
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-http://s4.nihontv.net:21585/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -917,6 +893,7 @@ http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🤣| Giải trí" tvg-logo="https://images.squarespace-cdn.com/content/v1/5f0399e5b096b01cd79e8ac5/1594936869834-MBPKYN93MFD8IFBS1SU9/ONE_26_LogoIdent_08.png", ONE
 
 #EXTINF:-1 tvg-id="hgtv" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
+https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="kix" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
 
@@ -926,15 +903,15 @@ http://s4.nihontv.net:21585/axn/index.m3u8
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="woman" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
+https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="tlchd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
 
