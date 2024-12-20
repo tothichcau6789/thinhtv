@@ -452,6 +452,8 @@ https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231/test/123/playlist.mpegts
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #http://s4.nihontv.net:21585/cartoon/index.m3u8
@@ -471,6 +473,9 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Extra.Boomerang" group-title="🌈| Hoạt hình" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
+https://tv.TruyenHinh.Click/QuocTe/Extra.Boomerang/TruyenHinh.Click
+
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG HD" tvg-logo="http://oaktv.pro:8080/images/1eaf598f1204f2779a66d12c7b7bc14e.png" group-title="🌈| Hoạt hình",BOOMERANG HD
 
 #EXTINF:-1 tvg-id="304dtv.cl" tvg-name="CARTOON NETWORK HD" tvg-logo="http://oaktvpro.club:8080/images/f15eb23dd2b38cc112d083131f6104ae.png" group-title="🌈| Hoạt hình",CARTOON NETWORK HD
@@ -482,6 +487,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="314dtv.co" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://oaktvpro.club:8080/images/6a74e145e925143f663b410f9f1a756c.png" group-title="🌈| Hoạt hình",DISNEY CHANNEL HD
 
 #EXTINF:-1 tvg-id="315dtv.cl" tvg-name="DISNEY JR HD" tvg-logo="http://logo.protv.cc/picons/logos/DISNEY-JR-NP.png" group-title="🌈| Hoạt hình",DISNEY JR HD
+https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="disneyxd.us" tvg-name="Disney XD" tvg-logo="http://watchindia.net/images/channels/usa/Disney_XD.png" group-title="🌈| Hoạt hình",Disney XD
 
@@ -531,8 +537,10 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HCATV" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/04/12/23/1712939276302/5f22d679657d_640_360.png",TV360 CINE
 
 #EXTINF:-1 group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", HCATV6 - Phim Dở (Today Plus)
+https://bom.so/KhichTV-live-phim-hay-m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV
+http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="youtv" group-title="💕| HCATV" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 #EXTVLCOPT:http-user-agent=VThanhTivi
@@ -811,6 +819,9 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #--*.*--Đối ngoại/Tin tức quốc tế--*.*--#
 
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.ibb.co/Zgd7Kmz/213.jpg", BBC World News
+#EXTVLCOPT:http-user-agent=khichtivi
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="BloombergTVEurope.uk" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Bloomberg.png", Bloomberg TV
 #KODIPROP:inputstream=inputstream.adaptive
@@ -828,6 +839,7 @@ https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -855,8 +867,10 @@ https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #--*.*--Khám phá--*.*--#
 
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231/test/123/playlist.mpegts
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 
 #EXTINF:-1 tvg-id="davincihd" group-title="🌿| Khám phá" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/davincihd/KenhCoBan",DaVinci HD
 https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
@@ -874,10 +888,12 @@ https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
 https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="national-geographic-group" group-title="🌿| Khám phá" tvg-logo="https://cdn.antmediatv.xyz/ngw.png" , Nat Geo Wild
+http://45.159.74.13/NationalGeographic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/C0890450-5801-4E07-ACEB-D392A350C800.jpeg" group-title="🌿| Khám phá",Clarity4K
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://logo.protv.cc/picons/logos/tlc.png" group-title="🌿| Khám phá",TLC
+https://tv.TruyenHinh.Click/QuocTe/Extra.TLC/TruyenHinh.Click
 
 #--*.*--Giải trí--*.*--#
 
