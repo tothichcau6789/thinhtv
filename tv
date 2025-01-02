@@ -375,7 +375,7 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=3BC8DB297756402F365F98E30FFBF5EE0D0187D9&profile=pass
 
@@ -383,7 +383,7 @@ http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=3BC8DB297756402F3
 #EXTVLCOPT:http-user-agent=VThanhTivi
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://pcriptv.ddns.net:9981/stream/channelid/337862650?ticket=A560E4A1E2965779487F86BCF5AF74E22C1E277D&profile=pass
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
@@ -418,6 +418,7 @@ https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
 
 #EXTINF:0 tvg-id="WARNER TV" tvg-name="WARNER TV" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_BROS.png",Warner Bros
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://pcriptv.ddns.net:9981/stream/channelid/1700605120?ticket=DEAE2EA4873D57B55AB9EAE1DCB070CBBE150B46&profile=pass
 
 #--*.*--MTV--*.*--#
@@ -1032,15 +1033,10 @@ https://7pal.short.gy/SkSpMainE
 #--*.*--Kẹo--*.*--#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE - MyTV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_CINE_HD
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ACTION - MyTV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_ACTION_HD
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyTV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_SPORT_1_HD
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyTV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_SPORT_2_HD
 #EXTINF:-1 tvg-id="kkidshd" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyTV
-https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
 
 #EXTINF:-1 tvg-id="klive1" group-title="🍭| Kẹo" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
