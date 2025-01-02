@@ -123,46 +123,46 @@ https://thvip.site/vtvcab1/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab2-on-phim-viet/${start}/${offset}", VTVCab2 ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/175/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/126882188?ticket=304A8E1879BB1F82DA2EF91DE4675F07C94FEF1A&profile=pass
 
 #EXTINF:-1 tvg-id="onsports" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", VTVCab3 ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/627753454?profile=pass
+http://pcriptv.ddns.net:9981/stream/channelid/934929518?ticket=8C9476BA50635F822538721D7F4CC7E10C34D6AD&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab4-phim-dac-sac/${start}/${offset}", VTVCab4 On Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/181/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1488380498?ticket=C06D5A06898FB85B1F0B252DC77DC9C2DEE0A88D&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab5-e-channel/${start}/${offset}", VTVCab5 ON E- Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/182/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1568507114?ticket=F843BF12A5036CFA5DE710395467C639E2AB52B5&profile=pass
 
 #EXTINF:-1 tvg-id="onsportsplus" group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", VTVCab6 ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://akaviettel.sgchill.io.vn/live/manifest/uid:vmttv/khichtivilamotconcho/play/vtvcab/vtvcab6.smil/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/962734018?ticket=1EDD5E2627BFF239F6A8DD2FEDC7F2C3601ABC47&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", VTVCab7 On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/136/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1913280232?ticket=659EA885B1116A629462967C0C49F67533A621B3&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}", VTVCab8 On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/178/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1363057633?ticket=2CE62DD413CED3D190B65CE8C74B4C13E27A862A&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab9-info-tv/${start}/${offset}", VTVCab9 ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/189/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/135150834?ticket=52D904C5509D54FF0CEA460DB58AF1A9DC8CA283&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", VTVCab10 ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/176/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1896323372?ticket=C210B1F2F477F023E6EAF5CB625BB99AD61DCF3A&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab11hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/22.png",VTVcab 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", VTVCab12 ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/184/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1243690758?ticket=536C4C1213A35C2AF18D0DEE3E71B7C17701DE0A&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/24.png", VTVcab 13
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -170,19 +170,19 @@ https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", VTVCab15 On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/185/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1093587134?ticket=684BC817F1233F46D7620BC3B8A2B5F0C213B278&profile=pass
 
 #EXTINF:-1 tvg-id="onfootball" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab16-on-football/${start}/${offset}", VTVCab16 ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Football_HD
+http://pcriptv.ddns.net:9981/stream/channelid/28741123?ticket=8525B4CD4D44296F7C9F118065CFDC89C393B8CE&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab17-yeah1-tv/dvr-${start}-${offset}.m3u8", VTV Cab 17 ON Trending TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/186/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/1980498614?ticket=0097C3A88C2414D76422BE7B79FE8DF552033CA7&profile=pass
 
 #EXTINF:-1 tvg-id="onsportsnews" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", VTVCab18 ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://HaNoiIPTV.short.gy/HaNoiIPTV-ON_Sports_News
+http://pcriptv.ddns.net:9981/stream/channelid/863447041?ticket=9F867B867ABACF000D43DCE7B49F88B841D377BB&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/30.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-dramas-hd/dvr-${start}-${offset}.m3u8", VTVcab 19
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -192,15 +192,15 @@ https://thvip.site/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon2/vtvcab20-vfamily/dvr-${start}-${offset}.m3u8", VTV Cab 20 ON VFamily
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/187/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/890265524?ticket=4CBCD3BED70FEE09DC107AC8712E107F89E1C42D&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", VTVCab21 On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/179/index.m3u8
+#https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/179/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", VTVCab22 On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ott1.sgchill.io.vn/backend/vmttv/khichtivilamotconcho/source/tv360/188/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/788120250?ticket=3801ADCEB8BADE8C716A37C3941852F4C6E9EB4B&profile=pass
 
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", VTVCab23 ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -376,16 +376,15 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#https://khanggtivi.xyz/vuminhthanh/vmt2024/hbo/index.m3u8
-http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+#http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=3BC8DB297756402F365F98E30FFBF5EE0D0187D9&profile=pass
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cinemax_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cinemax HD
-#EXTVLCOPT:http-user-agent=VThanhTivi
-
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://pcriptv.ddns.net:9981/stream/channelid/337862650?ticket=A560E4A1E2965779487F86BCF5AF74E22C1E277D&profile=pass
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -419,7 +418,7 @@ https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
 
 #EXTINF:0 tvg-id="WARNER TV" tvg-name="WARNER TV" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_BROS.png",Warner Bros
-
+http://pcriptv.ddns.net:9981/stream/channelid/1700605120?ticket=DEAE2EA4873D57B55AB9EAE1DCB070CBBE150B46&profile=pass
 
 #--*.*--MTV--*.*--#
 
@@ -453,7 +452,7 @@ https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
-http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231/test/123/playlist.mpegts
+http://pcriptv.ddns.net:9981/stream/channelid/895321633?ticket=3622FA0CBCD1A0D7CCD966E52936C5F8009601D4&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #http://s4.nihontv.net:21585/cartoon/index.m3u8
@@ -469,6 +468,7 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
+http://pcriptv.ddns.net:9981/stream/channelid/1713969872?ticket=190B41BEDE6E83AD80136DA011BF0720BADE342D&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -899,6 +899,7 @@ https://tv.TruyenHinh.Click/QuocTe/Extra.TLC/TruyenHinh.Click
 
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+http://pcriptv.ddns.net:9981/stream/channelid/1397640705?ticket=F3773FD74427207733FF0F1A56E1B101E678A4D9&profile=pass
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 
@@ -1131,29 +1132,31 @@ https://HaNoiIPTV.short.gy/HaNoiIPTV-K_KIDS_HD
 #EXTINF:-1 tvg-id="ksktt5" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 5
 #EXTINF:-1 tvg-id="ksktt5" group-title="K++" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/SPORT1.jpg", SỰ KIỆN THỂ THAO 5
 
-#EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - SCTV
+#EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - MyTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+#http://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/926682666?ticket=B14B3DAEAE22C9E8E9DB87E257C4114E814EE8B4&profile=pass
 
 #EXTINF:-1 tvg-id="kcinehd" group-title=" K+" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.antmediatv.xyz/96.png", K+CINE - ClipTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 
-#EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - SCTV
+#EXTINF:-1 tvg-id="kaction" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
+#https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/368266540?ticket=D477900534F4AAF8E8F461375C6877AF22EEF124&profile=pass
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyK+
+#EXTINF:-1 tvg-id="ksport1hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/556914677?profile=pass
+http://pcriptv.ddns.net:9981/stream/channelid/1825489648?ticket=80B089E2D232D3C8F60DF8A2409F393138569244&profile=pass
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyK+
+#EXTINF:-1 tvg-id="ksport2hd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
+http://pcriptv.ddns.net:9981/stream/channelid/839558461?ticket=343DCAD9087F7E79E663088B19F5451918F97274&profile=pass
 
-#EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyK+
+#EXTINF:-1 tvg-id="kkidshd" group-title=" K+" tvg-logo="https://cdn.antmediatv.xyz/100.png", K+KIDS - MyTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
-#https://code.antmediatv.xyz/getplay/aa8cc38ba0194c8d510417bee69b7cc40d0873852fc31e986f802c29e944e607a1/stream/kkids/master.m3u8
+http://pcriptv.ddns.net:9981/stream/channelid/592622600?ticket=A4E2AE3A0770E9FF821F859EB64C2F21C6A3D33F&profile=pass
 
 #EXTINF:-1 tvg-id="klive1" group-title=" K+" tvg-logo="https://img.kplus.vn/Media/HDVN/EPG_thumbnail/046_K_LIVE1_landscape.jpg", K+LIVE1 - MyK+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
