@@ -376,10 +376,9 @@ https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn
 
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🎬| HBO-GO" logo="https://i.imgur.com/7nIUtCU.png" tvg-id="f4ac54b663f41522227e9d6ade6a0068",HBO
-http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=3BC8DB297756402F365F98E30FFBF5EE0D0187D9&profile=pass
+
 
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
@@ -387,7 +386,6 @@ http://pcriptv.ddns.net:9981/stream/channelid/911518964?ticket=3BC8DB297756402F3
 
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://pcriptv.ddns.net:9981/stream/channelid/337862650?ticket=A560E4A1E2965779487F86BCF5AF74E22C1E277D&profile=pass
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| HBO-GO" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -421,7 +419,6 @@ https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
 
 
 #EXTINF:0 tvg-id="WARNER TV" tvg-name="WARNER TV" group-title="🎬| HBO-GO" tvg-logo="http://logo.protv.cc/picons/iptvlogos/WARNER_BROS.png",Warner Bros
-http://pcriptv.ddns.net:9981/stream/channelid/1700605120?ticket=DEAE2EA4873D57B55AB9EAE1DCB070CBBE150B46&profile=pass
 
 #--*.*--MTV--*.*--#
 
@@ -455,7 +452,6 @@ https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
-http://pcriptv.ddns.net:9981/stream/channelid/895321633?ticket=3622FA0CBCD1A0D7CCD966E52936C5F8009601D4&profile=pass
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
 #http://s4.nihontv.net:21585/cartoon/index.m3u8
@@ -471,7 +467,6 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="BABY TV HD" tvg-logo="http://logo.protv.cc/picons/iptvlogos/BABYTV_HD.png" group-title="🌈| Hoạt hình", BABY TV HD
 
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-DREAM-WORK.png" , Dreamworks
-http://pcriptv.ddns.net:9981/stream/channelid/1713969872?ticket=190B41BEDE6E83AD80136DA011BF0720BADE342D&profile=pass
 
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="http://logo.protv.cc/picons/iptvlogos/ZOOMOO.png" group-title="🌈| Hoạt hình" tvg-logo="", ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
