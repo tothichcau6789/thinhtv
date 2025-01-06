@@ -1145,11 +1145,11 @@ https://7pal.short.gy/SkSpMainE
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/97.png", K+ACTION - MyTV
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.antmediatv.xyz/99.png", K+SPORT2 - MyTV
