@@ -1040,6 +1040,18 @@ https://7pal.short.gy/SkSpMainE
 
 #--*.*--Kẹo--*.*--#
 
+#EXTINF:-1 group-title=" K+" tvg-logo="https://i.imgur.com/QPkuBRi.png" tvg-id="caf24ff6856144399bc0078e7c915c6e",K+ Action (DRM)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1984950986?profile=pass
+#EXTINF:-1 group-title=" K+" tvg-logo="https://i.imgur.com/As4bwUs.png" tvg-id="64b9d42640b9dbfa85e379d5bf4cd9be",K+ Cine (DRM)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/651475300?profile=pass
+#EXTINF:-1 group-title=" K+" tvg-logo="https://i.imgur.com/6yiAtRg.png" tvg-id="3b509306ead8b6aa8199b0960bd83ba1",K+ Sport 1 (DRM)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/110317627?profile=pass
+#EXTINF:-1 group-title=" K+" tvg-logo="https://i.imgur.com/EFeyqYX.png" tvg-id="120e35f02d54302d61ac8b3ee064ecd2",K+ Sport 2 (DRM)
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
+
+
+
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| Kẹo" group-logo="https://cdn.antmediatv.xyz/group/K+.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE - MyTV
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ACTION - MyTV
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| Kẹo" tvg-logo="https://cdn.antmediatv.xyz/98.png", K+SPORT1 - MyTV
